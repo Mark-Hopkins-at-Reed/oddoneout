@@ -117,7 +117,7 @@ def initialize_encoder(encoder_id):
 
 
 ENCODERS = ['albert-base-v2',
-            'albert-large-v2'
+            'albert-large-v2',
             'albert-xlarge-v2',
             'bert-base-uncased',
             'bert-large-uncased',
@@ -184,12 +184,15 @@ def run_experiments(ooo_filename, encoder_ids, compressor_ids):
     results = dict()
     puzzles = list(read_ooo_puzzles_from_tsv(ooo_filename))
     for encoder_id in encoder_ids:
-        encoder = initialize_encoder(encoder_id)
-        for compressor_id in compressor_ids:
-            print('Running experiment ({}, {})'.format(encoder_id, compressor_id))
-            compressor = COMPRESSORS[compressor_id]
-            result = run_experiment(puzzles, encoder, compressor)
-            results[(encoder_id, compressor_id)] = result
+        try:
+            encoder = initialize_encoder(encoder_id)
+            for compressor_id in compressor_ids:
+                print('Running experiment ({}, {})'.format(encoder_id, compressor_id))
+                compressor = COMPRESSORS[compressor_id]
+                result = run_experiment(puzzles, encoder, compressor)
+                results[(encoder_id, compressor_id)] = result
+        except Exception:
+            print("Failed to load: {}".format(encoder_id))
     return results
 
 
