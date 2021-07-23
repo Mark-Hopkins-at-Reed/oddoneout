@@ -1,0 +1,510 @@
+B	Guiding Light	Seinfeld	General Hospital	All My Children	Days of our Lives
+C	Guiding Light	All My Children	Seinfeld	Days of our Lives	General Hospital
+B	All My Children	Seinfeld	General Hospital	Days of our Lives	Guiding Light
+B	Days of our Lives	Seinfeld	Guiding Light	General Hospital	All My Children
+B	General Hospital	Seinfeld	All My Children	Days of our Lives	Guiding Light
+C	Tavis Smiley	Dr. Laura	Halle Berry	Howard Stern	Rush Limbaugh
+B	Howard Stern	Halle Berry	Rush Limbaugh	Dr. Laura	Tavis Smiley
+A	Halle Berry	Dr. Laura	Tavis Smiley	Rush Limbaugh	Howard Stern
+C	Howard Stern	Rush Limbaugh	Halle Berry	Tavis Smiley	Dr. Laura
+C	Tavis Smiley	Howard Stern	Halle Berry	Dr. Laura	Rush Limbaugh
+B	Alps	Galapagos	Himalayas	Rockies	Andes
+C	Himalayas	Alps	Galapagos	Rockies	Andes
+A	Galapagos	Andes	Himalayas	Alps	Rockies
+A	Galapagos	Rockies	Andes	Himalayas	Alps
+B	Andes	Galapagos	Himalayas	Rockies	Alps
+C	Adidas	Converse	Hanes	Reebok	Nike
+B	Nike	Hanes	Reebok	Adidas	Converse
+C	Nike	Converse	Hanes	Adidas	Reebok
+E	Converse	Nike	Reebok	Adidas	Hanes
+A	Hanes	Reebok	Converse	Adidas	Nike
+D	Valium	Vicodin	Codine	butter	Viagra
+E	Valium	Viagra	Codine	Vicodin	butter
+C	Vicodin	Codine	butter	Viagra	Valium
+B	Valium	butter	Viagra	Codine	Vicodin
+A	butter	Valium	Codine	Viagra	Vicodin
+D	Guess	Gap	Wrangler	Nike	Levis
+B	Gap	Nike	Levis	Guess	Wrangler
+A	Nike	Wrangler	Levis	Gap	Guess
+D	Gap	Wrangler	Guess	Nike	Levis
+E	Levis	Wrangler	Guess	Gap	Nike
+C	Running Man	Robot	Programmer	Worm	Moon Walk
+D	Robot	Running Man	Moon Walk	Programmer	Worm
+C	Moon Walk	Robot	Programmer	Running Man	Worm
+C	Worm	Moon Walk	Programmer	Running Man	Robot
+C	Running Man	Worm	Programmer	Moon Walk	Robot
+B	Pablo Neruda	Barack Obama	Isabel Allende	Jorge Luis Borges	Gabriel Garcia Marquez
+C	Jorge Luis Borges	Isabel Allende	Barack Obama	Gabriel Garcia Marquez	Pablo Neruda
+A	Barack Obama	Jorge Luis Borges	Pablo Neruda	Isabel Allende	Gabriel Garcia Marquez
+C	Isabel Allende	Pablo Neruda	Barack Obama	Jorge Luis Borges	Gabriel Garcia Marquez
+C	Gabriel Garcia Marquez	Pablo Neruda	Barack Obama	Isabel Allende	Jorge Luis Borges
+D	Progresso	Campbell's	Knorr	Chiquita	Chunky
+B	Knorr	Chiquita	Campbell's	Progresso	Chunky
+E	Campbell's	Knorr	Chunky	Progresso	Chiquita
+E	Chunky	Campbell's	Progresso	Knorr	Chiquita
+C	Knorr	Chunky	Chiquita	Campbell's	Progresso
+A	China	Peru	Argentina	Chile	Brazil
+B	Brazil	China	Argentina	Chile	Peru
+E	Peru	Chile	Argentina	Brazil	China
+B	Brazil	China	Argentina	Peru	Chile
+A	China	Peru	Brazil	Chile	Argentina
+B	Mountain Dew	balloon	cola	Sprite	root beer
+A	balloon	root beer	Mountain Dew	cola	Sprite
+B	Mountain Dew	balloon	cola	Sprite	root beer
+E	cola	root beer	Sprite	Mountain Dew	balloon
+A	balloon	Mountain Dew	Sprite	root beer	cola
+C	Alice Waters	Anthony Bourdain	Roger Ebert	Julia Child	Marcus Samuelsson
+E	Anthony Bourdain	Marcus Samuelsson	Alice Waters	Julia Child	Roger Ebert
+E	Anthony Bourdain	Alice Waters	Marcus Samuelsson	Julia Child	Roger Ebert
+A	Roger Ebert	Anthony Bourdain	Marcus Samuelsson	Alice Waters	Julia Child
+E	Anthony Bourdain	Julia Child	Alice Waters	Marcus Samuelsson	Roger Ebert
+E	Brown Sugar	Wild Horses	Gimme Shelter	Satisfaction	A Hard Day's Night
+C	Wild Horses	Brown Sugar	A Hard Day's Night	Gimme Shelter	Satisfaction
+E	Satisfaction	Gimme Shelter	Brown Sugar	Wild Horses	A Hard Day's Night
+C	Wild Horses	Brown Sugar	A Hard Day's Night	Gimme Shelter	Satisfaction
+A	A Hard Day's Night	Satisfaction	Gimme Shelter	Brown Sugar	Wild Horses
+B	Pocahontas	Titanic	Bambi	Aladdin	Up
+C	Aladdin	Pocahontas	Titanic	Bambi	Up
+B	Pocahontas	Titanic	Up	Bambi	Aladdin
+A	Titanic	Aladdin	Up	Bambi	Pocahontas
+A	Titanic	Up	Pocahontas	Aladdin	Bambi
+A	Dwight Eisenhower	Willie Mays	Babe Ruth	Mickey Mantle	Hank Aaron
+C	Babe Ruth	Hank Aaron	Dwight Eisenhower	Mickey Mantle	Willie Mays
+D	Hank Aaron	Babe Ruth	Mickey Mantle	Dwight Eisenhower	Willie Mays
+D	Willie Mays	Hank Aaron	Babe Ruth	Dwight Eisenhower	Mickey Mantle
+B	Babe Ruth	Dwight Eisenhower	Willie Mays	Mickey Mantle	Hank Aaron
+C	Time	Newsweek	Bon Appetit	U.S. News & World Report	The Economist
+E	The Economist	Newsweek	Time	U.S. News & World Report	Bon Appetit
+C	Time	The Economist	Bon Appetit	Newsweek	U.S. News & World Report
+E	U.S. News & World Report	The Economist	Newsweek	Time	Bon Appetit
+B	The Economist	Bon Appetit	Time	Newsweek	U.S. News & World Report
+E	Peyton Manning	Joe Montana	Brett Favre	John Elway	Barry Sanders
+E	Brett Favre	John Elway	Peyton Manning	Joe Montana	Barry Sanders
+E	Peyton Manning	Joe Montana	John Elway	Brett Favre	Barry Sanders
+C	Joe Montana	Brett Favre	Barry Sanders	Peyton Manning	John Elway
+B	Joe Montana	Barry Sanders	John Elway	Peyton Manning	Brett Favre
+E	Cairo	Marrakesh	Johannesburg	Addis Ababa	Rio de Janeiro
+E	Addis Ababa	Cairo	Johannesburg	Marrakesh	Rio de Janeiro
+C	Johannesburg	Addis Ababa	Rio de Janeiro	Marrakesh	Cairo
+D	Johannesburg	Marrakesh	Cairo	Rio de Janeiro	Addis Ababa
+C	Cairo	Johannesburg	Rio de Janeiro	Addis Ababa	Marrakesh
+D	Leia	Luke	Han Solo	Spock	Chewbacca
+D	Leia	Han Solo	Chewbacca	Spock	Luke
+C	Han Solo	Luke	Spock	Chewbacca	Leia
+D	Chewbacca	Leia	Luke	Spock	Han Solo
+C	Han Solo	Leia	Spock	Luke	Chewbacca
+D	Trident	Chiclets	Doublemint	Doritos	Orbit
+E	Trident	Chiclets	Doublemint	Orbit	Doritos
+E	Orbit	Doublemint	Trident	Chiclets	Doritos
+A	Doritos	Chiclets	Trident	Orbit	Doublemint
+B	Chiclets	Doritos	Orbit	Doublemint	Trident
+A	Tiny Tim	Sweeney Todd	Dexter Morgan	Jack the Ripper	Ted Bundy
+B	Dexter Morgan	Tiny Tim	Sweeney Todd	Ted Bundy	Jack the Ripper
+A	Tiny Tim	Sweeney Todd	Ted Bundy	Dexter Morgan	Jack the Ripper
+C	Sweeney Todd	Ted Bundy	Tiny Tim	Dexter Morgan	Jack the Ripper
+B	Ted Bundy	Tiny Tim	Sweeney Todd	Dexter Morgan	Jack the Ripper
+D	Bible	Talmud	Torah	Constitution	Quran
+A	Constitution	Quran	Bible	Talmud	Torah
+B	Talmud	Constitution	Torah	Quran	Bible
+C	Talmud	Bible	Constitution	Quran	Torah
+B	Bible	Constitution	Torah	Talmud	Quran
+E	Four Seasons	Sheraton	Hilton	Hyatt	Burger King
+E	Hyatt	Four Seasons	Hilton	Sheraton	Burger King
+E	Hilton	Hyatt	Four Seasons	Sheraton	Burger King
+A	Burger King	Four Seasons	Sheraton	Hilton	Hyatt
+B	Hilton	Burger King	Hyatt	Sheraton	Four Seasons
+D	Diego Maradona	Cristiano Ronaldo	Pele	Rocky Balboa	David Beckham
+A	Rocky Balboa	Diego Maradona	Cristiano Ronaldo	Pele	David Beckham
+B	Cristiano Ronaldo	Rocky Balboa	Diego Maradona	David Beckham	Pele
+D	David Beckham	Cristiano Ronaldo	Pele	Rocky Balboa	Diego Maradona
+E	David Beckham	Cristiano Ronaldo	Pele	Diego Maradona	Rocky Balboa
+C	Stanford	Harvard	Neptune	Oxford	Yale
+B	Yale	Neptune	Harvard	Oxford	Stanford
+C	Harvard	Yale	Neptune	Stanford	Oxford
+A	Neptune	Stanford	Oxford	Yale	Harvard
+E	Yale	Oxford	Harvard	Stanford	Neptune
+E	Itsy Bitsy Spider	The Wheels on the Bus	Ring Around the Rosie	Farmer in the Dell	Purple Rain
+E	Itsy Bitsy Spider	Farmer in the Dell	Ring Around the Rosie	The Wheels on the Bus	Purple Rain
+A	Purple Rain	Ring Around the Rosie	The Wheels on the Bus	Farmer in the Dell	Itsy Bitsy Spider
+B	The Wheels on the Bus	Purple Rain	Farmer in the Dell	Ring Around the Rosie	Itsy Bitsy Spider
+C	Itsy Bitsy Spider	The Wheels on the Bus	Purple Rain	Ring Around the Rosie	Farmer in the Dell
+E	Lex Luther	The Joker	The Green Goblin	Magneto	Superman
+D	Lex Luther	The Joker	Magneto	Superman	The Green Goblin
+A	Superman	Magneto	The Green Goblin	The Joker	Lex Luther
+B	Lex Luther	Superman	Magneto	The Green Goblin	The Joker
+E	Lex Luther	The Joker	Magneto	The Green Goblin	Superman
+A	Columbus	Plato	Aristotle	Kierkegaard	Kant
+E	Kierkegaard	Kant	Plato	Aristotle	Columbus
+E	Kant	Plato	Kierkegaard	Aristotle	Columbus
+D	Kant	Kierkegaard	Aristotle	Columbus	Plato
+B	Kierkegaard	Columbus	Aristotle	Kant	Plato
+D	Dasani	Fiji	Evian	Sprite	Aquafina
+A	Sprite	Fiji	Aquafina	Dasani	Evian
+C	Aquafina	Evian	Sprite	Fiji	Dasani
+D	Aquafina	Dasani	Fiji	Sprite	Evian
+C	Evian	Aquafina	Sprite	Fiji	Dasani
+E	Toledo	Barcelona	Madrid	Seville	Lisbon
+A	Lisbon	Toledo	Barcelona	Madrid	Seville
+D	Toledo	Seville	Barcelona	Lisbon	Madrid
+D	Madrid	Seville	Barcelona	Lisbon	Toledo
+E	Madrid	Toledo	Seville	Barcelona	Lisbon
+E	Help!	Yesterday	Blackbird	Let It Be	Tomorrow
+B	Yesterday	Tomorrow	Help!	Blackbird	Let It Be
+D	Help!	Blackbird	Let It Be	Tomorrow	Yesterday
+E	Blackbird	Help!	Yesterday	Let It Be	Tomorrow
+D	Yesterday	Blackbird	Let It Be	Tomorrow	Help!
+C	Munich	Milan	Manila	London	Dublin
+A	Manila	London	Dublin	Milan	Munich
+E	Milan	Dublin	London	Munich	Manila
+D	Munich	Milan	London	Manila	Dublin
+C	London	Dublin	Manila	Munich	Milan
+D	Backstreet Boys	One Direction	New Kids on the Block	Bob Dylan	Jonas Brothers
+B	Jonas Brothers	Bob Dylan	New Kids on the Block	One Direction	Backstreet Boys
+A	Bob Dylan	Backstreet Boys	One Direction	New Kids on the Block	Jonas Brothers
+C	One Direction	New Kids on the Block	Bob Dylan	Jonas Brothers	Backstreet Boys
+A	Bob Dylan	Jonas Brothers	Backstreet Boys	One Direction	New Kids on the Block
+C	Milan	Rome	Athens	Naples	Venice
+D	Rome	Milan	Naples	Athens	Venice
+E	Rome	Naples	Venice	Milan	Athens
+C	Naples	Venice	Athens	Milan	Rome
+D	Venice	Rome	Milan	Athens	Naples
+D	Whitman	Shelley	Yeats	Quayle	Keats
+B	Shelley	Quayle	Keats	Whitman	Yeats
+E	Shelley	Whitman	Keats	Yeats	Quayle
+A	Quayle	Keats	Whitman	Yeats	Shelley
+D	Keats	Yeats	Shelley	Quayle	Whitman
+E	Poseidon	Zeus	Dionysus	Athena	Herodotus
+E	Dionysus	Zeus	Athena	Poseidon	Herodotus
+A	Herodotus	Zeus	Athena	Poseidon	Dionysus
+D	Athena	Dionysus	Poseidon	Herodotus	Zeus
+B	Athena	Herodotus	Poseidon	Dionysus	Zeus
+B	Diana	Marcus	Jane	Susan	Sophie
+C	Jane	Sophie	Marcus	Susan	Diana
+E	Diana	Sophie	Jane	Susan	Marcus
+B	Diana	Marcus	Sophie	Susan	Jane
+D	Susan	Sophie	Jane	Marcus	Diana
+C	Marshall Applewhite	Charles Manson	James Bond	Jim Jones	David Koresh
+A	James Bond	Marshall Applewhite	Charles Manson	David Koresh	Jim Jones
+A	James Bond	David Koresh	Marshall Applewhite	Charles Manson	Jim Jones
+B	David Koresh	James Bond	Charles Manson	Jim Jones	Marshall Applewhite
+A	James Bond	Charles Manson	Marshall Applewhite	David Koresh	Jim Jones
+E	Andre the Giant	The Rock	Hulk Hogan	Randy Savage	George Clooney
+B	Hulk Hogan	George Clooney	The Rock	Andre the Giant	Randy Savage
+E	Andre the Giant	The Rock	Hulk Hogan	Randy Savage	George Clooney
+A	George Clooney	The Rock	Randy Savage	Andre the Giant	Hulk Hogan
+D	Hulk Hogan	Andre the Giant	Randy Savage	George Clooney	The Rock
+E	Ted Bundy	Al Capone	Charles Manson	John Gotti	Marilyn Manson
+B	Al Capone	Marilyn Manson	Charles Manson	John Gotti	Ted Bundy
+A	Marilyn Manson	Charles Manson	John Gotti	Ted Bundy	Al Capone
+C	Ted Bundy	John Gotti	Marilyn Manson	Charles Manson	Al Capone
+C	Charles Manson	Ted Bundy	Marilyn Manson	John Gotti	Al Capone
+E	TMZ	Gawker	Perez Hilton	Cheezburger	Google
+C	TMZ	Cheezburger	Google	Gawker	Perez Hilton
+D	Perez Hilton	Gawker	TMZ	Google	Cheezburger
+A	Google	Gawker	Perez Hilton	TMZ	Cheezburger
+B	Cheezburger	Google	TMZ	Perez Hilton	Gawker
+A	Tide	Palmolive	Ajax	Joy	Dawn
+A	Tide	Ajax	Joy	Palmolive	Dawn
+B	Dawn	Tide	Joy	Palmolive	Ajax
+E	Joy	Palmolive	Ajax	Dawn	Tide
+A	Tide	Palmolive	Joy	Ajax	Dawn
+E	Jan Brady	Mike Brady	Carol Brady	Marcia Brady	Tom Brady
+E	Jan Brady	Carol Brady	Marcia Brady	Mike Brady	Tom Brady
+A	Tom Brady	Marcia Brady	Mike Brady	Jan Brady	Carol Brady
+D	Jan Brady	Mike Brady	Carol Brady	Tom Brady	Marcia Brady
+A	Tom Brady	Mike Brady	Carol Brady	Jan Brady	Marcia Brady
+E	Heathrow	Narita	O'Hare	Orly	Smithsonian
+E	Orly	Narita	O'Hare	Heathrow	Smithsonian
+D	Orly	Heathrow	Narita	Smithsonian	O'Hare
+E	Orly	O'Hare	Heathrow	Narita	Smithsonian
+E	O'Hare	Heathrow	Narita	Orly	Smithsonian
+A	Lego	Risk	Monopoly	Scrabble	Clue
+D	Risk	Clue	Scrabble	Lego	Monopoly
+C	Clue	Monopoly	Lego	Scrabble	Risk
+B	Monopoly	Lego	Clue	Risk	Scrabble
+E	Clue	Risk	Scrabble	Monopoly	Lego
+D	Eleanor Roosevelt	Martha Washington	Nancy Reagan	Amy Adams	Dolly Madison
+A	Amy Adams	Dolly Madison	Nancy Reagan	Martha Washington	Eleanor Roosevelt
+C	Eleanor Roosevelt	Nancy Reagan	Amy Adams	Martha Washington	Dolly Madison
+C	Nancy Reagan	Dolly Madison	Amy Adams	Eleanor Roosevelt	Martha Washington
+D	Nancy Reagan	Martha Washington	Dolly Madison	Amy Adams	Eleanor Roosevelt
+E	Bert	Grover	Ernie	Elmo	Minerva
+C	Ernie	Grover	Minerva	Bert	Elmo
+E	Grover	Bert	Ernie	Elmo	Minerva
+E	Elmo	Grover	Ernie	Bert	Minerva
+E	Grover	Elmo	Ernie	Bert	Minerva
+B	Rush Limbaugh	Bill Clinton	Glenn Beck	Dr. Laura Schlessinger	Howard Stern
+D	Dr. Laura Schlessinger	Rush Limbaugh	Howard Stern	Bill Clinton	Glenn Beck
+D	Dr. Laura Schlessinger	Howard Stern	Rush Limbaugh	Bill Clinton	Glenn Beck
+B	Rush Limbaugh	Bill Clinton	Glenn Beck	Dr. Laura Schlessinger	Howard Stern
+D	Glenn Beck	Rush Limbaugh	Howard Stern	Bill Clinton	Dr. Laura Schlessinger
+A	Kurt Cobain	Keith Moon	Ringo Starr	Neil Peart	Dave Grohl
+A	Kurt Cobain	Dave Grohl	Ringo Starr	Keith Moon	Neil Peart
+B	Ringo Starr	Kurt Cobain	Dave Grohl	Keith Moon	Neil Peart
+B	Dave Grohl	Kurt Cobain	Neil Peart	Ringo Starr	Keith Moon
+A	Kurt Cobain	Keith Moon	Dave Grohl	Neil Peart	Ringo Starr
+A	Milk	Lemonheads	Cry Babies	Warheads	Gummy Worms
+B	Lemonheads	Milk	Cry Babies	Warheads	Gummy Worms
+D	Gummy Worms	Warheads	Cry Babies	Milk	Lemonheads
+C	Warheads	Gummy Worms	Milk	Cry Babies	Lemonheads
+E	Cry Babies	Lemonheads	Warheads	Gummy Worms	Milk
+D	Fancy Feast	Purina	Meow Mix	Heinz	Whiskas
+A	Heinz	Whiskas	Fancy Feast	Meow Mix	Purina
+D	Meow Mix	Fancy Feast	Purina	Heinz	Whiskas
+A	Heinz	Whiskas	Meow Mix	Fancy Feast	Purina
+E	Purina	Meow Mix	Fancy Feast	Whiskas	Heinz
+B	Muhammed Ali	Joe Montana	Mike Tyson	George Foreman	Joe Louis
+A	Joe Montana	Joe Louis	George Foreman	Muhammed Ali	Mike Tyson
+D	Joe Louis	George Foreman	Mike Tyson	Joe Montana	Muhammed Ali
+D	Mike Tyson	Joe Louis	Muhammed Ali	Joe Montana	George Foreman
+D	Joe Louis	Muhammed Ali	Mike Tyson	Joe Montana	George Foreman
+D	Saw	Psycho	Dracula	Caddyshack	Carrie
+B	Dracula	Caddyshack	Carrie	Psycho	Saw
+B	Dracula	Caddyshack	Psycho	Saw	Carrie
+C	Psycho	Saw	Caddyshack	Carrie	Dracula
+E	Psycho	Dracula	Carrie	Saw	Caddyshack
+A	Katy Perry	Kenny Rogers	Willie Nelson	Reba McEntire	Dolly Parton
+E	Kenny Rogers	Dolly Parton	Reba McEntire	Willie Nelson	Katy Perry
+B	Reba McEntire	Katy Perry	Kenny Rogers	Willie Nelson	Dolly Parton
+D	Dolly Parton	Kenny Rogers	Willie Nelson	Katy Perry	Reba McEntire
+D	Kenny Rogers	Willie Nelson	Dolly Parton	Katy Perry	Reba McEntire
+D	Clueless	Roman Holiday	The Wedding Singer	The Birds	Love Actually
+D	The Wedding Singer	Love Actually	Roman Holiday	The Birds	Clueless
+D	Clueless	The Wedding Singer	Roman Holiday	The Birds	Love Actually
+E	Love Actually	Clueless	Roman Holiday	The Wedding Singer	The Birds
+D	The Wedding Singer	Roman Holiday	Love Actually	The Birds	Clueless
+D	Baghdad	Dubai	Cairo	Sydney	Jerusalem
+C	Jerusalem	Dubai	Sydney	Baghdad	Cairo
+C	Baghdad	Cairo	Sydney	Dubai	Jerusalem
+B	Dubai	Sydney	Cairo	Baghdad	Jerusalem
+D	Dubai	Baghdad	Cairo	Sydney	Jerusalem
+E	Victoria's Secret	Hanes	Jockey	Fruit of the Loom	Burberry
+D	Fruit of the Loom	Victoria's Secret	Jockey	Burberry	Hanes
+D	Fruit of the Loom	Jockey	Victoria's Secret	Burberry	Hanes
+D	Victoria's Secret	Hanes	Fruit of the Loom	Burberry	Jockey
+A	Burberry	Fruit of the Loom	Hanes	Victoria's Secret	Jockey
+B	Walt Disney	Emily Bronte	Charles Schulz	Bill Watterson	Seth MacFarlane
+A	Emily Bronte	Seth MacFarlane	Charles Schulz	Walt Disney	Bill Watterson
+B	Walt Disney	Emily Bronte	Bill Watterson	Seth MacFarlane	Charles Schulz
+D	Seth MacFarlane	Walt Disney	Charles Schulz	Emily Bronte	Bill Watterson
+B	Seth MacFarlane	Emily Bronte	Bill Watterson	Walt Disney	Charles Schulz
+C	Hoop Dreams	Bowling for Columbine	The Thin Red Line	March of the Penguins	Super Size Me
+B	Bowling for Columbine	The Thin Red Line	Super Size Me	March of the Penguins	Hoop Dreams
+E	March of the Penguins	Super Size Me	Hoop Dreams	Bowling for Columbine	The Thin Red Line
+D	Hoop Dreams	Super Size Me	March of the Penguins	The Thin Red Line	Bowling for Columbine
+D	Super Size Me	Bowling for Columbine	March of the Penguins	The Thin Red Line	Hoop Dreams
+E	Foot Locker	Payless Shoe Source	DSW	Skechers	Williams Sonoma
+E	Skechers	DSW	Foot Locker	Payless Shoe Source	Williams Sonoma
+D	Skechers	DSW	Foot Locker	Williams Sonoma	Payless Shoe Source
+E	DSW	Foot Locker	Skechers	Payless Shoe Source	Williams Sonoma
+B	Payless Shoe Source	Williams Sonoma	Skechers	Foot Locker	DSW
+D	Regis Philbin	Alex Trebek	Richard Dawson	George Orwell	Bob Barker
+E	Regis Philbin	Alex Trebek	Richard Dawson	Bob Barker	George Orwell
+C	Alex Trebek	Regis Philbin	George Orwell	Bob Barker	Richard Dawson
+C	Richard Dawson	Regis Philbin	George Orwell	Bob Barker	Alex Trebek
+A	George Orwell	Richard Dawson	Bob Barker	Alex Trebek	Regis Philbin
+E	World War II	Civil War	Korean War	Hundred Years War	War and Peace
+C	Civil War	Hundred Years War	War and Peace	Korean War	World War II
+C	Korean War	World War II	War and Peace	Civil War	Hundred Years War
+E	Civil War	World War II	Korean War	Hundred Years War	War and Peace
+E	Korean War	World War II	Hundred Years War	Civil War	War and Peace
+E	Tom Brokaw	Walter Cronkite	Dan Rather	Katie Couric	Jennifer Lawrence
+A	Jennifer Lawrence	Tom Brokaw	Dan Rather	Walter Cronkite	Katie Couric
+D	Dan Rather	Tom Brokaw	Katie Couric	Jennifer Lawrence	Walter Cronkite
+B	Walter Cronkite	Jennifer Lawrence	Tom Brokaw	Dan Rather	Katie Couric
+E	Dan Rather	Walter Cronkite	Katie Couric	Tom Brokaw	Jennifer Lawrence
+C	Beijing	Tokyo	Paris	Hanoi	Shanghai
+E	Shanghai	Hanoi	Tokyo	Beijing	Paris
+A	Paris	Shanghai	Tokyo	Beijing	Hanoi
+B	Beijing	Paris	Hanoi	Tokyo	Shanghai
+A	Paris	Beijing	Shanghai	Tokyo	Hanoi
+B	Kalahari	Himalayas	Gobi	Sahara	Mojave
+B	Sahara	Himalayas	Mojave	Gobi	Kalahari
+E	Kalahari	Gobi	Mojave	Sahara	Himalayas
+E	Kalahari	Gobi	Sahara	Mojave	Himalayas
+D	Gobi	Sahara	Kalahari	Himalayas	Mojave
+D	Pinocchio	Howdy Doody	Kermit the Frog	Moby Dick	Elmo
+B	Kermit the Frog	Moby Dick	Howdy Doody	Pinocchio	Elmo
+D	Kermit the Frog	Pinocchio	Elmo	Moby Dick	Howdy Doody
+C	Pinocchio	Kermit the Frog	Moby Dick	Elmo	Howdy Doody
+A	Moby Dick	Kermit the Frog	Pinocchio	Elmo	Howdy Doody
+A	Paramount	Ursa Major	Orion	Gemini	Sagittarius
+B	Orion	Paramount	Gemini	Sagittarius	Ursa Major
+B	Gemini	Paramount	Orion	Ursa Major	Sagittarius
+D	Ursa Major	Gemini	Sagittarius	Paramount	Orion
+D	Ursa Major	Orion	Sagittarius	Paramount	Gemini
+A	Rugrats	Top Chef	Survivor	Real World	The Amazing Race
+A	Rugrats	Real World	Top Chef	Survivor	The Amazing Race
+C	The Amazing Race	Survivor	Rugrats	Real World	Top Chef
+B	Real World	Rugrats	Top Chef	The Amazing Race	Survivor
+E	Top Chef	Real World	The Amazing Race	Survivor	Rugrats
+C	Jack Sparrow	Blackbeard	Oliver Twist	Captain Kidd	Captain Morgan
+C	Captain Morgan	Jack Sparrow	Oliver Twist	Captain Kidd	Blackbeard
+B	Captain Morgan	Oliver Twist	Blackbeard	Captain Kidd	Jack Sparrow
+A	Oliver Twist	Blackbeard	Jack Sparrow	Captain Kidd	Captain Morgan
+C	Jack Sparrow	Blackbeard	Oliver Twist	Captain Kidd	Captain Morgan
+A	The Godfather	27 Dresses	Never Been Kissed	Pretty Woman	When Harry Met Sally
+E	Pretty Woman	27 Dresses	When Harry Met Sally	Never Been Kissed	The Godfather
+C	Never Been Kissed	Pretty Woman	The Godfather	When Harry Met Sally	27 Dresses
+D	When Harry Met Sally	Pretty Woman	Never Been Kissed	The Godfather	27 Dresses
+A	The Godfather	27 Dresses	Pretty Woman	Never Been Kissed	When Harry Met Sally
+C	Madonna	Britney Spears	Halle Berry	Christina Aguilera	Beyonce
+B	Christina Aguilera	Halle Berry	Beyonce	Madonna	Britney Spears
+B	Christina Aguilera	Halle Berry	Madonna	Beyonce	Britney Spears
+A	Halle Berry	Christina Aguilera	Madonna	Britney Spears	Beyonce
+B	Christina Aguilera	Halle Berry	Beyonce	Britney Spears	Madonna
+A	Hanoi	Pierce	Snohomish	King	Skagit
+D	Pierce	Snohomish	King	Hanoi	Skagit
+D	King	Skagit	Snohomish	Hanoi	Pierce
+D	King	Snohomish	Pierce	Hanoi	Skagit
+D	Snohomish	Pierce	Skagit	Hanoi	King
+B	Florida	Guam	Michigan	Ohio	Oregon
+D	Oregon	Michigan	Ohio	Guam	Florida
+E	Ohio	Florida	Michigan	Oregon	Guam
+B	Michigan	Guam	Oregon	Florida	Ohio
+B	Florida	Guam	Ohio	Oregon	Michigan
+D	Facebook	Google	Microsoft	Mattel	Amazon
+E	Microsoft	Facebook	Amazon	Google	Mattel
+C	Facebook	Microsoft	Mattel	Google	Amazon
+A	Mattel	Google	Facebook	Amazon	Microsoft
+D	Amazon	Google	Facebook	Mattel	Microsoft
+C	Jordan	Israel	Bolivia	Syria	Lebanon
+E	Jordan	Israel	Syria	Lebanon	Bolivia
+E	Lebanon	Israel	Jordan	Syria	Bolivia
+D	Israel	Syria	Lebanon	Bolivia	Jordan
+E	Syria	Jordan	Israel	Lebanon	Bolivia
+D	Herbie	Air Force One	Titanic	Hamburger Helper	Batmobile
+C	Batmobile	Titanic	Hamburger Helper	Air Force One	Herbie
+D	Batmobile	Air Force One	Titanic	Hamburger Helper	Herbie
+D	Batmobile	Air Force One	Herbie	Hamburger Helper	Titanic
+C	Batmobile	Herbie	Hamburger Helper	Air Force One	Titanic
+C	Elton John	Bob Dylan	Walt Whitman	Kurt Cobain	Justin Timberlake
+C	Kurt Cobain	Elton John	Walt Whitman	Justin Timberlake	Bob Dylan
+E	Justin Timberlake	Kurt Cobain	Elton John	Bob Dylan	Walt Whitman
+B	Kurt Cobain	Walt Whitman	Elton John	Justin Timberlake	Bob Dylan
+C	Kurt Cobain	Justin Timberlake	Walt Whitman	Bob Dylan	Elton John
+B	Saskatchewan	Oaxaca	Alberta	Ontario	Manitoba
+B	Manitoba	Oaxaca	Saskatchewan	Ontario	Alberta
+B	Saskatchewan	Oaxaca	Manitoba	Alberta	Ontario
+C	Manitoba	Saskatchewan	Oaxaca	Alberta	Ontario
+B	Ontario	Oaxaca	Manitoba	Alberta	Saskatchewan
+D	Shawn Johnson	Mary Lou Retton	Nadia Comaneci	Mary Tyler Moore	Olga Korbut
+E	Nadia Comaneci	Shawn Johnson	Mary Lou Retton	Olga Korbut	Mary Tyler Moore
+E	Mary Lou Retton	Shawn Johnson	Olga Korbut	Nadia Comaneci	Mary Tyler Moore
+E	Shawn Johnson	Mary Lou Retton	Olga Korbut	Nadia Comaneci	Mary Tyler Moore
+E	Nadia Comaneci	Shawn Johnson	Mary Lou Retton	Olga Korbut	Mary Tyler Moore
+D	Botswana	Rwanda	Nigeria	Paraguay	Egypt
+B	Egypt	Paraguay	Rwanda	Botswana	Nigeria
+C	Botswana	Rwanda	Paraguay	Egypt	Nigeria
+D	Nigeria	Egypt	Rwanda	Paraguay	Botswana
+B	Botswana	Paraguay	Nigeria	Rwanda	Egypt
+D	Axe	Degree	Old Spice	Mr. Clean	Secret
+C	Degree	Old Spice	Mr. Clean	Axe	Secret
+D	Old Spice	Degree	Secret	Mr. Clean	Axe
+D	Old Spice	Degree	Secret	Mr. Clean	Axe
+E	Secret	Old Spice	Axe	Degree	Mr. Clean
+B	Scope	Tylenol	Listerine	Plax	Oral-B
+E	Scope	Plax	Listerine	Oral-B	Tylenol
+B	Oral-B	Tylenol	Scope	Plax	Listerine
+A	Tylenol	Listerine	Plax	Scope	Oral-B
+A	Tylenol	Listerine	Oral-B	Plax	Scope
+C	Pet Sematary	It	Leaves of Grass	Carrie	The Shining
+D	The Shining	Pet Sematary	It	Leaves of Grass	Carrie
+C	The Shining	Carrie	Leaves of Grass	It	Pet Sematary
+B	It	Leaves of Grass	Carrie	Pet Sematary	The Shining
+E	Pet Sematary	The Shining	It	Carrie	Leaves of Grass
+B	Uber	Verizon	Instagram	Facebook	Yelp
+A	Verizon	Uber	Instagram	Yelp	Facebook
+D	Facebook	Uber	Instagram	Verizon	Yelp
+D	Instagram	Yelp	Uber	Verizon	Facebook
+C	Yelp	Uber	Verizon	Instagram	Facebook
+D	Hinduism	Shintoism	Buddhism	Mormonism	Taoism
+C	Shintoism	Taoism	Mormonism	Hinduism	Buddhism
+A	Mormonism	Taoism	Buddhism	Shintoism	Hinduism
+A	Mormonism	Taoism	Hinduism	Shintoism	Buddhism
+C	Shintoism	Taoism	Mormonism	Hinduism	Buddhism
+A	Kabul	Mumbai	Bangalore	Jaipur	Delhi
+A	Kabul	Jaipur	Bangalore	Mumbai	Delhi
+E	Bangalore	Mumbai	Jaipur	Delhi	Kabul
+A	Kabul	Jaipur	Delhi	Mumbai	Bangalore
+B	Mumbai	Kabul	Delhi	Jaipur	Bangalore
+A	Mount Everest	Mount St. Helens	Krakatoa	Vesuvius	Mount Fuji
+C	Mount Fuji	Vesuvius	Mount Everest	Mount St. Helens	Krakatoa
+C	Mount St. Helens	Krakatoa	Mount Everest	Vesuvius	Mount Fuji
+C	Krakatoa	Vesuvius	Mount Everest	Mount Fuji	Mount St. Helens
+B	Mount St. Helens	Mount Everest	Vesuvius	Mount Fuji	Krakatoa
+D	Japan	Korea	China	Iceland	Nepal
+C	Japan	China	Iceland	Nepal	Korea
+B	China	Iceland	Nepal	Japan	Korea
+A	Iceland	Korea	Nepal	Japan	China
+A	Iceland	Nepal	Korea	China	Japan
+A	Vespa	Ferrari	Porsche	Lamborghini	Jaguar
+E	Jaguar	Porsche	Ferrari	Lamborghini	Vespa
+E	Ferrari	Jaguar	Porsche	Lamborghini	Vespa
+D	Porsche	Lamborghini	Ferrari	Vespa	Jaguar
+E	Porsche	Lamborghini	Ferrari	Jaguar	Vespa
+A	Dave Matthews	Snoop Dogg	Dr. Dre	Eminem	Kanye West
+C	Kanye West	Dr. Dre	Dave Matthews	Eminem	Snoop Dogg
+C	Snoop Dogg	Kanye West	Dave Matthews	Dr. Dre	Eminem
+B	Snoop Dogg	Dave Matthews	Dr. Dre	Kanye West	Eminem
+E	Eminem	Kanye West	Snoop Dogg	Dr. Dre	Dave Matthews
+E	Daffy Duck	Donald Duck	Tweety	Woodstock	Lassie
+A	Lassie	Daffy Duck	Tweety	Woodstock	Donald Duck
+A	Lassie	Donald Duck	Tweety	Woodstock	Daffy Duck
+E	Woodstock	Daffy Duck	Donald Duck	Tweety	Lassie
+E	Woodstock	Daffy Duck	Donald Duck	Tweety	Lassie
+A	Clark Kent	Harry Potter	Ron Weasley	Draco Malfoy	Dumbledore
+A	Clark Kent	Harry Potter	Ron Weasley	Draco Malfoy	Dumbledore
+C	Harry Potter	Draco Malfoy	Clark Kent	Dumbledore	Ron Weasley
+D	Harry Potter	Draco Malfoy	Dumbledore	Clark Kent	Ron Weasley
+A	Clark Kent	Dumbledore	Ron Weasley	Draco Malfoy	Harry Potter
+D	Superman	The Walking Dead	Archie	Gone With the Wind	X-Men
+A	Gone With the Wind	X-Men	The Walking Dead	Archie	Superman
+E	X-Men	The Walking Dead	Superman	Archie	Gone With the Wind
+B	Superman	Gone With the Wind	X-Men	Archie	The Walking Dead
+E	Superman	The Walking Dead	X-Men	Archie	Gone With the Wind
+D	Bogota	Santiago	Lima	Madrid	Caracas
+A	Madrid	Caracas	Santiago	Bogota	Lima
+D	Lima	Caracas	Santiago	Madrid	Bogota
+E	Lima	Caracas	Santiago	Bogota	Madrid
+A	Madrid	Caracas	Lima	Bogota	Santiago
+B	Pyramids	Eiffel Tower	Hanging Gardens of Babylon	Colossus of Rhodes	Lighthouse of Alexandria
+A	Eiffel Tower	Lighthouse of Alexandria	Hanging Gardens of Babylon	Colossus of Rhodes	Pyramids
+A	Eiffel Tower	Hanging Gardens of Babylon	Pyramids	Lighthouse of Alexandria	Colossus of Rhodes
+E	Lighthouse of Alexandria	Pyramids	Hanging Gardens of Babylon	Colossus of Rhodes	Eiffel Tower
+D	Colossus of Rhodes	Hanging Gardens of Babylon	Pyramids	Eiffel Tower	Lighthouse of Alexandria
+E	Chris Evert Lloyd	Venus Williams	Martina Navratilova	Serena Williams	Annika Sorenstam
+E	Venus Williams	Martina Navratilova	Serena Williams	Chris Evert Lloyd	Annika Sorenstam
+B	Venus Williams	Annika Sorenstam	Serena Williams	Martina Navratilova	Chris Evert Lloyd
+A	Annika Sorenstam	Chris Evert Lloyd	Martina Navratilova	Venus Williams	Serena Williams
+C	Martina Navratilova	Serena Williams	Annika Sorenstam	Chris Evert Lloyd	Venus Williams
+D	Oliver Twist	A Tale of Two Cities	Great Expectations	Pride and Prejudice	Little Dorritt
+C	Great Expectations	A Tale of Two Cities	Pride and Prejudice	Oliver Twist	Little Dorritt
+B	Little Dorritt	Pride and Prejudice	A Tale of Two Cities	Oliver Twist	Great Expectations
+A	Pride and Prejudice	Little Dorritt	Oliver Twist	A Tale of Two Cities	Great Expectations
+D	A Tale of Two Cities	Little Dorritt	Great Expectations	Pride and Prejudice	Oliver Twist
+C	Moscow	Omsk	Ottawa	Saint Petersburg	Volgograd
+E	Omsk	Moscow	Volgograd	Saint Petersburg	Ottawa
+C	Volgograd	Moscow	Ottawa	Omsk	Saint Petersburg
+B	Saint Petersburg	Ottawa	Moscow	Volgograd	Omsk
+A	Ottawa	Saint Petersburg	Volgograd	Moscow	Omsk
+C	Hamburg	Frankfurt	Bloomberg	Munich	Berlin
+A	Bloomberg	Frankfurt	Berlin	Munich	Hamburg
+B	Hamburg	Bloomberg	Munich	Berlin	Frankfurt
+A	Bloomberg	Munich	Berlin	Frankfurt	Hamburg
+C	Hamburg	Frankfurt	Bloomberg	Berlin	Munich
+E	NCIS	NYPD Blue	Law & Order	CSI	My Little Pony
+E	NCIS	CSI	Law & Order	NYPD Blue	My Little Pony
+A	My Little Pony	NCIS	CSI	NYPD Blue	Law & Order
+E	CSI	NCIS	NYPD Blue	Law & Order	My Little Pony
+C	NCIS	Law & Order	My Little Pony	NYPD Blue	CSI
+A	Auckland	Melbourne	Sydney	Perth	Canberra
+B	Perth	Auckland	Sydney	Canberra	Melbourne
+C	Sydney	Perth	Auckland	Canberra	Melbourne
+A	Auckland	Sydney	Canberra	Perth	Melbourne
+C	Canberra	Perth	Auckland	Sydney	Melbourne
+C	The Thinker	Venus de Milo	Mona Lisa	Statue of David	Pieta
+C	The Thinker	Venus de Milo	Mona Lisa	Statue of David	Pieta
+E	Venus de Milo	Statue of David	Pieta	The Thinker	Mona Lisa
+A	Mona Lisa	The Thinker	Pieta	Venus de Milo	Statue of David
+E	Pieta	The Thinker	Venus de Milo	Statue of David	Mona Lisa

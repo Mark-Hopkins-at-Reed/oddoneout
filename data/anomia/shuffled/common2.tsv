@@ -1,0 +1,510 @@
+D	ghost	witch	mummy	entrepreneur	zombie
+A	entrepreneur	zombie	ghost	mummy	witch
+B	witch	entrepreneur	ghost	zombie	mummy
+B	witch	entrepreneur	mummy	ghost	zombie
+A	entrepreneur	ghost	mummy	witch	zombie
+B	poor	colorful	wealthy	destitute	rich
+E	wealthy	rich	destitute	poor	colorful
+C	poor	rich	colorful	wealthy	destitute
+E	destitute	wealthy	poor	rich	colorful
+B	wealthy	colorful	rich	poor	destitute
+C	coccyx	tibia	gills	clavicle	sternum
+C	tibia	clavicle	gills	sternum	coccyx
+A	gills	clavicle	tibia	coccyx	sternum
+B	clavicle	gills	tibia	sternum	coccyx
+D	clavicle	tibia	coccyx	gills	sternum
+A	chemistry	angioplasty	appendectomy	rhinoplasty	vasectomy
+A	chemistry	vasectomy	angioplasty	rhinoplasty	appendectomy
+C	appendectomy	vasectomy	chemistry	rhinoplasty	angioplasty
+E	angioplasty	vasectomy	rhinoplasty	appendectomy	chemistry
+E	vasectomy	appendectomy	angioplasty	rhinoplasty	chemistry
+B	screwdriver	computer	hammer	pliers	wrench
+D	pliers	screwdriver	hammer	computer	wrench
+D	pliers	screwdriver	wrench	computer	hammer
+D	wrench	pliers	screwdriver	computer	hammer
+E	hammer	wrench	screwdriver	pliers	computer
+B	koala	kiwi	wombat	wallaby	kangaroo
+B	koala	kiwi	wombat	wallaby	kangaroo
+D	kangaroo	wombat	koala	kiwi	wallaby
+A	kiwi	koala	wallaby	kangaroo	wombat
+E	koala	kangaroo	wombat	wallaby	kiwi
+A	collie	dalmation	leopard	giraffe	appaloosa
+C	dalmation	appaloosa	collie	giraffe	leopard
+C	leopard	appaloosa	collie	giraffe	dalmation
+B	appaloosa	collie	giraffe	leopard	dalmation
+A	collie	dalmation	giraffe	appaloosa	leopard
+D	emu	rhea	penguin	eagle	ostrich
+B	penguin	eagle	rhea	ostrich	emu
+C	emu	rhea	eagle	ostrich	penguin
+E	rhea	ostrich	penguin	emu	eagle
+A	eagle	penguin	rhea	emu	ostrich
+A	tuna	oyster	clam	mussel	scallop
+C	mussel	clam	tuna	oyster	scallop
+C	scallop	mussel	tuna	clam	oyster
+D	mussel	clam	oyster	tuna	scallop
+D	scallop	clam	oyster	tuna	mussel
+B	nuts	peas	cherry	hot fudge	whipped cream
+B	whipped cream	peas	cherry	hot fudge	nuts
+B	whipped cream	peas	nuts	cherry	hot fudge
+C	hot fudge	nuts	peas	whipped cream	cherry
+C	nuts	hot fudge	peas	whipped cream	cherry
+E	drip	dribble	gush	spurt	compose
+A	compose	gush	spurt	drip	dribble
+A	compose	drip	spurt	dribble	gush
+B	spurt	compose	gush	dribble	drip
+D	gush	spurt	dribble	compose	drip
+D	triangle	circle	square	chime	rectangle
+E	square	triangle	rectangle	circle	chime
+C	circle	square	chime	triangle	rectangle
+E	triangle	circle	square	rectangle	chime
+D	triangle	circle	rectangle	chime	square
+B	bob	raven	mohawk	pixie cut	beehive
+E	bob	mohawk	pixie cut	beehive	raven
+B	mohawk	raven	bob	pixie cut	beehive
+C	beehive	mohawk	raven	pixie cut	bob
+B	mohawk	raven	bob	beehive	pixie cut
+C	blizzard	hailstorm	earthquake	hurricane	thunderstorm
+A	earthquake	hurricane	blizzard	thunderstorm	hailstorm
+A	earthquake	blizzard	thunderstorm	hailstorm	hurricane
+E	blizzard	hailstorm	thunderstorm	hurricane	earthquake
+D	hurricane	blizzard	thunderstorm	earthquake	hailstorm
+E	pushups	jumping jacks	crunches	chinups	typewriters
+D	pushups	chinups	jumping jacks	typewriters	crunches
+D	pushups	crunches	chinups	typewriters	jumping jacks
+A	typewriters	chinups	crunches	pushups	jumping jacks
+D	pushups	jumping jacks	crunches	typewriters	chinups
+E	gecko	salamander	chameleon	iguana	sparrow
+A	sparrow	iguana	salamander	gecko	chameleon
+C	gecko	salamander	sparrow	iguana	chameleon
+B	chameleon	sparrow	gecko	iguana	salamander
+C	salamander	gecko	sparrow	chameleon	iguana
+E	bandage	cotton ball	gauze	peroxide	caboose
+A	caboose	bandage	gauze	peroxide	cotton ball
+A	caboose	gauze	peroxide	bandage	cotton ball
+A	caboose	cotton ball	bandage	peroxide	gauze
+C	peroxide	cotton ball	caboose	bandage	gauze
+C	pinto	kidney	brain	lima	fava
+D	fava	lima	kidney	brain	pinto
+E	pinto	lima	fava	kidney	brain
+D	lima	pinto	fava	brain	kidney
+E	lima	fava	pinto	kidney	brain
+C	copper	aluminum	hydrogen	tin	gold
+C	tin	aluminum	hydrogen	gold	copper
+D	tin	aluminum	copper	hydrogen	gold
+B	tin	hydrogen	gold	aluminum	copper
+A	hydrogen	gold	tin	aluminum	copper
+A	sheep	donkey	camel	yak	horse
+E	yak	donkey	horse	camel	sheep
+E	horse	camel	donkey	yak	sheep
+C	donkey	horse	sheep	yak	camel
+B	yak	sheep	horse	donkey	camel
+D	smell	touch	taste	walk	sight
+D	sight	touch	taste	walk	smell
+B	sight	walk	smell	taste	touch
+A	walk	taste	sight	smell	touch
+D	taste	smell	touch	walk	sight
+C	joule	kilometer	mile	watt	kilogram
+C	joule	kilometer	mile	watt	kilogram
+D	watt	kilometer	kilogram	mile	joule
+E	joule	kilogram	kilometer	watt	mile
+D	kilogram	joule	watt	mile	kilometer
+C	intelligent	smart	strong	stupid	dim
+B	stupid	strong	dim	intelligent	smart
+C	smart	stupid	strong	intelligent	dim
+A	strong	stupid	smart	dim	intelligent
+D	dim	smart	stupid	strong	intelligent
+B	knife	bunnies	bayonet	grenade	gun
+B	knife	bunnies	bayonet	grenade	gun
+A	bunnies	bayonet	grenade	knife	gun
+C	bayonet	grenade	bunnies	gun	knife
+A	bunnies	grenade	bayonet	knife	gun
+A	tennis	jigsaw puzzle	word search	crossword	sudoku
+D	sudoku	crossword	word search	tennis	jigsaw puzzle
+E	word search	sudoku	crossword	jigsaw puzzle	tennis
+A	tennis	sudoku	word search	crossword	jigsaw puzzle
+C	word search	sudoku	tennis	jigsaw puzzle	crossword
+A	chocolate	match	kerosene	lighter	charcoal
+B	lighter	chocolate	match	charcoal	kerosene
+C	match	charcoal	chocolate	lighter	kerosene
+B	charcoal	chocolate	lighter	match	kerosene
+C	charcoal	kerosene	chocolate	match	lighter
+B	milliliter	kilogram	liter	ounce	gallon
+A	kilogram	gallon	milliliter	ounce	liter
+B	milliliter	kilogram	liter	ounce	gallon
+E	milliliter	gallon	liter	ounce	kilogram
+D	liter	ounce	milliliter	kilogram	gallon
+C	psychologist	veterinarian	lawyer	doctor	dentist
+C	doctor	dentist	lawyer	veterinarian	psychologist
+D	dentist	psychologist	veterinarian	lawyer	doctor
+A	lawyer	dentist	veterinarian	doctor	psychologist
+B	psychologist	lawyer	doctor	veterinarian	dentist
+D	battleship	tank	humvee	wheelbarrow	aircraft carrier
+D	tank	humvee	aircraft carrier	wheelbarrow	battleship
+E	tank	humvee	aircraft carrier	battleship	wheelbarrow
+E	battleship	aircraft carrier	humvee	tank	wheelbarrow
+C	tank	humvee	wheelbarrow	battleship	aircraft carrier
+D	screw	pulley	lever	hammer	wedge
+C	screw	pulley	hammer	lever	wedge
+B	pulley	hammer	lever	wedge	screw
+C	pulley	screw	hammer	wedge	lever
+D	lever	screw	wedge	hammer	pulley
+B	earthquake	bomb	tsunami	hurricane	tornado
+C	tornado	tsunami	bomb	hurricane	earthquake
+E	tsunami	earthquake	hurricane	tornado	bomb
+C	earthquake	hurricane	bomb	tsunami	tornado
+D	tsunami	hurricane	earthquake	bomb	tornado
+B	tears	juice	blood	saliva	sweat
+D	saliva	blood	sweat	juice	tears
+E	sweat	tears	saliva	blood	juice
+C	sweat	blood	juice	saliva	tears
+D	saliva	blood	sweat	juice	tears
+A	pound	fortnight	minute	month	hour
+E	hour	minute	fortnight	month	pound
+C	fortnight	minute	pound	month	hour
+D	minute	hour	month	pound	fortnight
+C	month	fortnight	pound	hour	minute
+E	kitesurfing	skydiving	parkour	hang gliding	ballet
+E	kitesurfing	hang gliding	parkour	skydiving	ballet
+B	skydiving	ballet	parkour	kitesurfing	hang gliding
+E	parkour	hang gliding	kitesurfing	skydiving	ballet
+B	parkour	ballet	kitesurfing	hang gliding	skydiving
+A	bear	lion	cheetah	jaguar	tiger
+E	cheetah	jaguar	tiger	lion	bear
+D	tiger	jaguar	lion	bear	cheetah
+E	jaguar	tiger	cheetah	lion	bear
+A	bear	jaguar	tiger	cheetah	lion
+C	biscotti	shortbread	crab	gingerbread	chocolate chip
+C	chocolate chip	shortbread	crab	gingerbread	biscotti
+D	gingerbread	chocolate chip	biscotti	crab	shortbread
+E	chocolate chip	biscotti	shortbread	gingerbread	crab
+E	gingerbread	chocolate chip	shortbread	biscotti	crab
+A	limousine	cement mixer	dump truck	crane	bulldozer
+A	limousine	cement mixer	bulldozer	crane	dump truck
+C	cement mixer	bulldozer	limousine	crane	dump truck
+D	cement mixer	crane	bulldozer	limousine	dump truck
+A	limousine	crane	bulldozer	cement mixer	dump truck
+D	humorous	funny	comical	boring	hilarious
+E	hilarious	comical	funny	humorous	boring
+D	humorous	comical	hilarious	boring	funny
+A	boring	funny	humorous	comical	hilarious
+D	funny	hilarious	humorous	boring	comical
+B	blueberry	orange	boysenberry	strawberry	raspberry
+D	strawberry	boysenberry	raspberry	orange	blueberry
+E	blueberry	raspberry	strawberry	boysenberry	orange
+D	boysenberry	raspberry	strawberry	orange	blueberry
+D	raspberry	boysenberry	strawberry	orange	blueberry
+E	gravity	weak nuclear	magnetism	strong nuclear	refutation
+B	strong nuclear	refutation	weak nuclear	gravity	magnetism
+E	gravity	magnetism	strong nuclear	weak nuclear	refutation
+D	weak nuclear	strong nuclear	magnetism	refutation	gravity
+B	magnetism	refutation	gravity	weak nuclear	strong nuclear
+B	trailer home	train	apartment	condo	house
+E	apartment	condo	house	trailer home	train
+C	trailer home	apartment	train	house	condo
+D	apartment	trailer home	condo	train	house
+C	house	apartment	train	trailer home	condo
+E	sunny	rainy	cloudy	windy	spongy
+D	cloudy	windy	sunny	spongy	rainy
+B	sunny	spongy	windy	rainy	cloudy
+D	sunny	windy	rainy	spongy	cloudy
+B	sunny	spongy	cloudy	windy	rainy
+A	elementary	adrenal	pituitary	mammary	thyroid
+D	thyroid	pituitary	mammary	elementary	adrenal
+B	adrenal	elementary	mammary	pituitary	thyroid
+D	mammary	thyroid	adrenal	elementary	pituitary
+E	mammary	thyroid	pituitary	adrenal	elementary
+C	physics	chemistry	pedagogy	geology	biology
+B	chemistry	pedagogy	physics	biology	geology
+A	pedagogy	chemistry	physics	biology	geology
+B	physics	pedagogy	chemistry	biology	geology
+A	pedagogy	geology	biology	chemistry	physics
+E	logic	statistics	algebra	calculus	optimism
+D	logic	calculus	statistics	optimism	algebra
+E	statistics	calculus	logic	algebra	optimism
+B	calculus	optimism	algebra	logic	statistics
+A	optimism	statistics	algebra	calculus	logic
+C	printer	computer	wrench	copier	stapler
+A	wrench	computer	copier	printer	stapler
+B	printer	wrench	copier	stapler	computer
+D	printer	copier	computer	wrench	stapler
+E	copier	printer	stapler	computer	wrench
+B	beef gravy	strawberry	portobello mushroom	chocolate	brown rice
+D	portobello mushroom	beef gravy	brown rice	strawberry	chocolate
+B	chocolate	strawberry	brown rice	portobello mushroom	beef gravy
+A	strawberry	chocolate	portobello mushroom	brown rice	beef gravy
+A	strawberry	chocolate	beef gravy	brown rice	portobello mushroom
+A	kelp	cedar	mahogany	pine	balsa
+E	balsa	pine	mahogany	cedar	kelp
+E	mahogany	pine	balsa	cedar	kelp
+D	cedar	mahogany	balsa	kelp	pine
+E	pine	balsa	cedar	mahogany	kelp
+E	oxygen	lithium	mercury	hydrogen	water
+D	lithium	oxygen	hydrogen	water	mercury
+E	oxygen	lithium	mercury	hydrogen	water
+E	hydrogen	oxygen	mercury	lithium	water
+E	mercury	hydrogen	lithium	oxygen	water
+B	barbecue	strawberry	sour cream and onion	salt and vinegar	plain
+D	salt and vinegar	plain	sour cream and onion	strawberry	barbecue
+D	barbecue	plain	sour cream and onion	strawberry	salt and vinegar
+E	barbecue	sour cream and onion	plain	salt and vinegar	strawberry
+B	plain	strawberry	salt and vinegar	sour cream and onion	barbecue
+D	star	sun	torch	asteroid	lamp
+E	lamp	torch	sun	star	asteroid
+A	asteroid	torch	star	sun	lamp
+D	lamp	sun	torch	asteroid	star
+D	lamp	star	sun	asteroid	torch
+B	collards	sushi	grits	cornbread	fried chicken
+A	sushi	grits	collards	cornbread	fried chicken
+A	sushi	collards	cornbread	grits	fried chicken
+A	sushi	collards	grits	cornbread	fried chicken
+B	collards	sushi	cornbread	fried chicken	grits
+E	crab	shrimp	crayfish	lobster	salmon
+C	shrimp	crayfish	salmon	crab	lobster
+E	crayfish	crab	shrimp	lobster	salmon
+C	shrimp	crayfish	salmon	lobster	crab
+E	lobster	crab	crayfish	shrimp	salmon
+D	ankle	sole	toe	ear	heel
+E	heel	ankle	sole	toe	ear
+D	ankle	toe	heel	ear	sole
+A	ear	toe	ankle	sole	heel
+D	toe	ankle	sole	ear	heel
+D	potential	kinetic	mechanical	political	electrical
+D	mechanical	kinetic	electrical	political	potential
+A	political	kinetic	electrical	potential	mechanical
+B	mechanical	political	kinetic	potential	electrical
+D	mechanical	kinetic	potential	political	electrical
+D	lizard	rattlesnake	scorpion	panda	camel
+E	lizard	rattlesnake	camel	scorpion	panda
+C	camel	scorpion	panda	lizard	rattlesnake
+C	lizard	rattlesnake	panda	scorpion	camel
+E	lizard	rattlesnake	scorpion	camel	panda
+A	bacon	lentils	seitan	tempeh	tofu
+B	tofu	bacon	lentils	seitan	tempeh
+A	bacon	seitan	tempeh	lentils	tofu
+A	bacon	lentils	tofu	tempeh	seitan
+B	tofu	bacon	seitan	tempeh	lentils
+B	iguana	wasp	gila monster	chameleon	gecko
+C	chameleon	gila monster	wasp	iguana	gecko
+D	chameleon	gecko	gila monster	wasp	iguana
+C	gecko	gila monster	wasp	chameleon	iguana
+C	gila monster	iguana	wasp	chameleon	gecko
+B	frankenstein	hacker	vampire	werewolf	yeti
+B	vampire	hacker	yeti	werewolf	frankenstein
+E	vampire	frankenstein	werewolf	yeti	hacker
+D	frankenstein	vampire	werewolf	hacker	yeti
+E	frankenstein	werewolf	vampire	yeti	hacker
+C	tiger	skunk	mosquito	bumblebee	zebra
+E	tiger	zebra	skunk	bumblebee	mosquito
+B	bumblebee	mosquito	tiger	zebra	skunk
+D	bumblebee	tiger	zebra	mosquito	skunk
+B	zebra	mosquito	skunk	bumblebee	tiger
+D	O	A	I	W	E
+D	E	O	I	W	A
+D	O	E	I	W	A
+A	W	O	E	I	A
+B	I	W	O	A	E
+B	snow	sun	rain	hail	sleet
+E	rain	snow	sleet	hail	sun
+B	rain	sun	snow	sleet	hail
+A	sun	snow	hail	sleet	rain
+B	rain	sun	sleet	hail	snow
+A	coffee	noir	adieu	bonjour	merci
+E	adieu	merci	noir	bonjour	coffee
+E	noir	merci	adieu	bonjour	coffee
+B	bonjour	coffee	noir	adieu	merci
+D	merci	noir	bonjour	coffee	adieu
+D	tarantula	daddy longlegs	black widow	hornet	brown recluse
+C	black widow	brown recluse	hornet	daddy longlegs	tarantula
+A	hornet	daddy longlegs	tarantula	brown recluse	black widow
+C	brown recluse	black widow	hornet	daddy longlegs	tarantula
+B	brown recluse	hornet	black widow	tarantula	daddy longlegs
+C	lime	avocado	crimson	mint	olive
+B	avocado	crimson	mint	lime	olive
+B	lime	crimson	mint	avocado	olive
+A	crimson	olive	avocado	lime	mint
+A	crimson	lime	avocado	mint	olive
+D	kaboom	wham	kapow	moo	boom
+B	kapow	moo	boom	kaboom	wham
+D	wham	kaboom	kapow	moo	boom
+D	boom	wham	kapow	moo	kaboom
+C	wham	boom	moo	kaboom	kapow
+B	turtleneck	bottleneck	cardigan	pullover	v-neck
+C	pullover	turtleneck	bottleneck	cardigan	v-neck
+B	turtleneck	bottleneck	pullover	cardigan	v-neck
+C	pullover	turtleneck	bottleneck	v-neck	cardigan
+B	pullover	bottleneck	turtleneck	v-neck	cardigan
+D	canyon	valley	crater	mountain	rift
+A	mountain	rift	valley	canyon	crater
+A	mountain	rift	valley	crater	canyon
+B	canyon	mountain	valley	rift	crater
+C	crater	rift	mountain	canyon	valley
+C	skis	boots	toboggan	poles	bindings
+D	boots	poles	bindings	toboggan	skis
+A	toboggan	poles	bindings	skis	boots
+B	skis	toboggan	boots	poles	bindings
+D	poles	skis	bindings	toboggan	boots
+A	castanets	umbrella	pail	towel	shovel
+E	towel	pail	umbrella	shovel	castanets
+C	umbrella	pail	castanets	towel	shovel
+D	pail	towel	umbrella	castanets	shovel
+A	castanets	umbrella	shovel	pail	towel
+B	malaria	cancer	measles	mumps	polio
+D	measles	malaria	polio	cancer	mumps
+B	mumps	cancer	polio	measles	malaria
+C	mumps	polio	cancer	measles	malaria
+B	polio	cancer	measles	mumps	malaria
+A	biscotti	spaghetti	tortellini	lasagna	rigatoni
+E	rigatoni	spaghetti	lasagna	tortellini	biscotti
+A	biscotti	tortellini	lasagna	rigatoni	spaghetti
+C	tortellini	rigatoni	biscotti	spaghetti	lasagna
+D	spaghetti	lasagna	tortellini	biscotti	rigatoni
+E	earring	bracelet	necklace	ring	tie
+E	necklace	ring	bracelet	earring	tie
+E	earring	ring	bracelet	necklace	tie
+D	earring	bracelet	ring	tie	necklace
+C	bracelet	ring	tie	earring	necklace
+D	keelhaul	ahoy matey	walk the plank	holy cow	swab the deck
+E	walk the plank	keelhaul	swab the deck	ahoy matey	holy cow
+E	walk the plank	ahoy matey	keelhaul	swab the deck	holy cow
+C	keelhaul	walk the plank	holy cow	swab the deck	ahoy matey
+C	swab the deck	keelhaul	holy cow	walk the plank	ahoy matey
+B	falcon	canary	eagle	hawk	vulture
+B	hawk	canary	vulture	falcon	eagle
+B	hawk	canary	eagle	vulture	falcon
+D	vulture	falcon	eagle	canary	hawk
+C	hawk	vulture	canary	eagle	falcon
+E	abdomen	thorax	wing	antenna	skull
+D	abdomen	wing	thorax	skull	antenna
+C	thorax	wing	skull	abdomen	antenna
+E	thorax	abdomen	wing	antenna	skull
+C	abdomen	wing	skull	thorax	antenna
+C	ferris wheel	tilt-a-whirl	popcorn	carousel	roller coaster
+A	popcorn	tilt-a-whirl	ferris wheel	roller coaster	carousel
+C	tilt-a-whirl	roller coaster	popcorn	carousel	ferris wheel
+C	carousel	tilt-a-whirl	popcorn	roller coaster	ferris wheel
+D	roller coaster	ferris wheel	tilt-a-whirl	popcorn	carousel
+A	oak	cedar	fir	spruce	pine
+A	oak	spruce	pine	fir	cedar
+C	fir	spruce	oak	pine	cedar
+B	spruce	oak	cedar	fir	pine
+E	fir	pine	spruce	cedar	oak
+E	humerus	radius	femur	ulna	diameter
+D	humerus	radius	femur	diameter	ulna
+D	humerus	femur	ulna	diameter	radius
+D	humerus	femur	radius	diameter	ulna
+D	humerus	femur	ulna	diameter	radius
+D	pomegranate	orange	lemon	carrot	apple
+C	orange	apple	carrot	lemon	pomegranate
+C	lemon	orange	carrot	apple	pomegranate
+C	pomegranate	apple	carrot	orange	lemon
+A	carrot	orange	lemon	pomegranate	apple
+A	grass	carrot	asparagus	potato	celery
+E	potato	asparagus	celery	carrot	grass
+D	celery	potato	carrot	grass	asparagus
+E	celery	potato	carrot	asparagus	grass
+B	asparagus	grass	carrot	celery	potato
+A	pasta	candy	pretzel	popcorn	soda
+B	pretzel	pasta	popcorn	candy	soda
+D	candy	popcorn	pretzel	pasta	soda
+D	popcorn	soda	candy	pasta	pretzel
+E	popcorn	candy	pretzel	soda	pasta
+D	cremini	portobello	shiitake	gala	chanterelle
+A	gala	cremini	shiitake	portobello	chanterelle
+E	chanterelle	cremini	shiitake	portobello	gala
+A	gala	cremini	shiitake	portobello	chanterelle
+C	portobello	shiitake	gala	cremini	chanterelle
+D	thermometer	defibrillator	scalpel	escalator	stethoscope
+E	defibrillator	scalpel	stethoscope	thermometer	escalator
+E	stethoscope	thermometer	scalpel	defibrillator	escalator
+D	defibrillator	stethoscope	thermometer	escalator	scalpel
+C	defibrillator	stethoscope	escalator	thermometer	scalpel
+D	rice	wheat	soybean	oil	corn
+B	corn	oil	rice	wheat	soybean
+E	corn	wheat	soybean	rice	oil
+B	wheat	oil	soybean	rice	corn
+C	wheat	rice	oil	corn	soybean
+E	tetherball	tag	hide and seek	hopscotch	luge
+D	tetherball	hide and seek	tag	luge	hopscotch
+D	tetherball	hopscotch	tag	luge	hide and seek
+C	tag	tetherball	luge	hide and seek	hopscotch
+B	tetherball	luge	tag	hopscotch	hide and seek
+D	river	stream	lake	desert	pond
+E	river	pond	lake	stream	desert
+E	pond	lake	river	stream	desert
+E	stream	pond	river	lake	desert
+C	stream	pond	desert	lake	river
+C	quart	liter	pound	gallon	milliliter
+E	gallon	quart	milliliter	liter	pound
+C	gallon	milliliter	pound	liter	quart
+A	pound	quart	milliliter	liter	gallon
+B	gallon	pound	liter	quart	milliliter
+E	pistil	calyx	stamen	petal	corn
+C	petal	pistil	corn	stamen	calyx
+B	stamen	corn	petal	pistil	calyx
+C	calyx	pistil	corn	stamen	petal
+B	petal	corn	pistil	calyx	stamen
+D	brick	metal	wood	marshmallow	concrete
+B	concrete	marshmallow	wood	metal	brick
+D	metal	concrete	brick	marshmallow	wood
+E	concrete	brick	wood	metal	marshmallow
+C	concrete	brick	marshmallow	metal	wood
+A	collate	divide	add	subtract	multiply
+D	multiply	add	divide	collate	subtract
+A	collate	multiply	divide	add	subtract
+B	multiply	collate	subtract	divide	add
+B	divide	collate	add	subtract	multiply
+E	nose	cheek	chin	eye	toe
+D	cheek	chin	eye	toe	nose
+B	nose	toe	cheek	chin	eye
+A	toe	eye	nose	cheek	chin
+B	cheek	toe	eye	chin	nose
+C	baseball	base	vampire	glove	bat
+A	vampire	baseball	glove	base	bat
+A	vampire	baseball	glove	base	bat
+E	glove	bat	baseball	base	vampire
+A	vampire	bat	baseball	glove	base
+B	gorilla	lobster	chimpanzee	monkey	orangutan
+D	orangutan	monkey	chimpanzee	lobster	gorilla
+C	monkey	chimpanzee	lobster	gorilla	orangutan
+B	monkey	lobster	gorilla	chimpanzee	orangutan
+C	orangutan	monkey	lobster	gorilla	chimpanzee
+B	violin	oboe	harp	guitar	banjo
+D	banjo	guitar	violin	oboe	harp
+C	banjo	harp	oboe	violin	guitar
+A	oboe	banjo	guitar	harp	violin
+D	banjo	harp	guitar	oboe	violin
+D	venison	veal	beef	eggplant	pork
+D	venison	beef	pork	eggplant	veal
+E	pork	beef	venison	veal	eggplant
+C	veal	pork	eggplant	venison	beef
+B	veal	eggplant	venison	beef	pork
+E	inquire	say	reply	ask	collapse
+D	ask	say	reply	collapse	inquire
+C	inquire	ask	collapse	reply	say
+D	say	reply	ask	collapse	inquire
+E	reply	say	inquire	ask	collapse
+E	cappuccino	macchiato	mocha	latte	rooibos
+A	rooibos	macchiato	latte	cappuccino	mocha
+E	latte	mocha	cappuccino	macchiato	rooibos
+A	rooibos	mocha	macchiato	latte	cappuccino
+A	rooibos	macchiato	mocha	latte	cappuccino
+A	rainbow	cumulus	cirrus	stratus	funnel
+B	funnel	rainbow	cumulus	cirrus	stratus
+C	cumulus	cirrus	rainbow	stratus	funnel
+D	stratus	funnel	cumulus	rainbow	cirrus
+C	funnel	cirrus	rainbow	cumulus	stratus
+E	chopsticks	fork	spoon	knife	vase
+A	vase	fork	chopsticks	spoon	knife
+A	vase	fork	spoon	chopsticks	knife
+B	chopsticks	vase	knife	spoon	fork
+B	fork	vase	spoon	chopsticks	knife
+C	king	rook	spade	queen	pawn
+E	king	rook	pawn	queen	spade
+E	queen	rook	pawn	king	spade
+A	spade	queen	pawn	king	rook
+D	rook	queen	pawn	spade	king
+B	polyester	plaid	silk	rayon	cotton
+C	polyester	cotton	plaid	silk	rayon
+E	rayon	silk	cotton	polyester	plaid
+B	silk	plaid	cotton	polyester	rayon
+A	plaid	polyester	rayon	cotton	silk

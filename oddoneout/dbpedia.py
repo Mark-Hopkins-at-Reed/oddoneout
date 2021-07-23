@@ -7,8 +7,8 @@ It is intended to access the structure of the DBPedia database
 so it can be ordered into an ontology.
 """
 
-from taxonomy import Taxonomy, Specificity
-from SPARQLWrapper import SPARQLWrapper, JSON
+from oddoneout.taxonomy import Taxonomy, Specificity
+#from SPARQLWrapper import SPARQLWrapper, JSON
 from collections import defaultdict
 
 

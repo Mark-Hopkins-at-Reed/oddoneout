@@ -9,8 +9,8 @@ so it can be ordered into an ontology.
 """
 
 import copy
-from taxonomy import Taxonomy, Specificity
-from wiki_demo import findPagesInCategory, findPagesById
+from oddoneout.taxonomy import Taxonomy, Specificity
+from oddoneout.wiki_demo import findPagesInCategory, findPagesById
 from collections import defaultdict
 
 

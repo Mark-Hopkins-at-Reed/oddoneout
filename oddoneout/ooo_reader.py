@@ -10,36 +10,42 @@ Each puzzle is stored as a list with the same format:
 Each list is stored in one larger list, which is returned from main.
 """
 
-import re # re.split - swifter parsing of each puzzle
+import random
+from os import listdir
+from os.path import isfile, join
 
-def main(puzzlefile_name):
-    puzzlefile = open(puzzlefile_name, 'r')
-    
-    dataset = []
-    for puzzle in puzzlefile:
-        puzzle_list = [item for item in filter(None, re.split('[\t,\n]', puzzle))]
-        dataset.append(puzzle_list)
-        
-        # Potentially relevant data subsets
-        category = puzzle_list[0]
-        words = puzzle_list[1:]
-        odd_one = puzzle_list[1]
-        members = puzzle_list[2:]
-    
-    puzzlefile.close()
-    return dataset
+ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+
+
+def read_stanovsky(puzzlefile_name):
+    with open(puzzlefile_name, 'r') as reader:
+        for line in reader:
+            puzzle = [f.strip() for f in line.split('\t')]
+            category, oddone, others = puzzle[0], puzzle[1], puzzle[2:]
+            yield category, oddone, others
+
+
+def write_o3(puzzles, outfile, num_shuffles=5):
+    with open(outfile, 'w') as writer:
+        for (_, oddone, others) in puzzles:
+            for _ in range(num_shuffles):
+                oddone_index = random.randint(0, 4)
+                shuffled = [o for o in others]
+                random.shuffle(shuffled)
+                choices = shuffled[:oddone_index] + [oddone] + shuffled[oddone_index:]
+                choice_str = ALPHABET[oddone_index] + "\t" + "\t".join(choices)
+                writer.write(choice_str + "\n")
+
+
+def rewrite_all(data_dir, output_dir):
+    onlyfiles = [f for f in listdir(data_dir) if isfile(join(data_dir, f))]
+    for file in onlyfiles:
+        try:
+            puzzles = read_stanovsky(join(data_dir, file))
+            write_o3(puzzles, join(output_dir, file))
+        except ValueError:
+            print("Failed to convert {}".format(file))
+
 
 if __name__ == "__main__":
-    # Current relative directory
-    DATA_DIR = "odd-man-out/data/"
-
-    # .tsv data files
-    COMMON1 = DATA_DIR + "common1.tsv"
-    COMMON2 = DATA_DIR + "common2.tsv"
-    PROPER1 = DATA_DIR + "proper1.tsv"
-    PROPER2 = DATA_DIR + "proper2.tsv"
-    CROWD_FILTER = DATA_DIR + "crowdsourced_filtered.tsv"
-    # unfiltered does not have typical OOO format and will not be parsed correctly
-    CROWD_UNFILTER = DATA_DIR + "crowdsourced_unfiltered.tsv"
-    
-    main(COMMON1)
+    rewrite_all('data/anomia', 'data/anomia/shuffled')

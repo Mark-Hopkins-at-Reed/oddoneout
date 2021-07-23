@@ -1,0 +1,500 @@
+E	orchid	bromeliad	bonsai tree	fern	sequoia
+D	bromeliad	bonsai tree	fern	sequoia	orchid
+D	bromeliad	bonsai tree	fern	sequoia	orchid
+B	fern	sequoia	bonsai tree	bromeliad	orchid
+C	bromeliad	bonsai tree	sequoia	orchid	fern
+E	woof	bow-wow	ruff	bark	meow
+C	woof	bow-wow	meow	ruff	bark
+E	bark	bow-wow	ruff	woof	meow
+B	woof	meow	bow-wow	bark	ruff
+A	meow	bark	woof	ruff	bow-wow
+D	flour	salt	oil	mud	yeast
+B	yeast	mud	flour	salt	oil
+C	flour	oil	mud	yeast	salt
+B	oil	mud	salt	yeast	flour
+D	salt	flour	oil	mud	yeast
+E	toad	salamander	newt	frog	chicken
+D	salamander	newt	frog	chicken	toad
+B	toad	chicken	salamander	newt	frog
+D	newt	salamander	toad	chicken	frog
+C	newt	frog	chicken	toad	salamander
+A	gunshot	burp	hiccup	laugh	gurgle
+B	laugh	gunshot	burp	hiccup	gurgle
+A	gunshot	hiccup	burp	gurgle	laugh
+E	laugh	gurgle	hiccup	burp	gunshot
+A	gunshot	laugh	burp	gurgle	hiccup
+D	spaceship	train	car	motel	boat
+B	car	motel	boat	spaceship	train
+D	spaceship	boat	train	motel	car
+D	spaceship	car	boat	motel	train
+C	train	car	motel	boat	spaceship
+D	orca	humpback	beluga	grizzly	blue
+C	blue	beluga	grizzly	orca	humpback
+D	orca	beluga	humpback	grizzly	blue
+B	humpback	grizzly	blue	beluga	orca
+E	blue	humpback	orca	beluga	grizzly
+D	ladle	spatula	knife	rake	whisk
+C	ladle	knife	rake	whisk	spatula
+D	knife	ladle	spatula	rake	whisk
+E	ladle	spatula	knife	whisk	rake
+B	ladle	rake	knife	spatula	whisk
+A	free kick	headlock	full nelson	pin	sleeper hold
+D	full nelson	pin	headlock	free kick	sleeper hold
+C	headlock	pin	free kick	sleeper hold	full nelson
+D	sleeper hold	headlock	pin	free kick	full nelson
+A	free kick	headlock	pin	sleeper hold	full nelson
+B	corporal	judo	private	colonel	general
+A	judo	colonel	general	private	corporal
+A	judo	general	corporal	colonel	private
+B	private	judo	colonel	general	corporal
+A	judo	private	colonel	general	corporal
+E	comet	meteor	planet	asteroid	turtle
+A	turtle	meteor	asteroid	planet	comet
+A	turtle	planet	meteor	asteroid	comet
+D	meteor	asteroid	planet	turtle	comet
+B	comet	turtle	planet	asteroid	meteor
+B	enamel	fairy	root	crown	dentin
+C	root	crown	fairy	dentin	enamel
+E	enamel	crown	dentin	root	fairy
+B	root	fairy	dentin	crown	enamel
+C	dentin	crown	fairy	root	enamel
+E	bechamel	tomato	soy	hollandaise	shortening
+A	shortening	tomato	bechamel	hollandaise	soy
+C	tomato	bechamel	shortening	hollandaise	soy
+E	hollandaise	tomato	bechamel	soy	shortening
+C	bechamel	soy	shortening	tomato	hollandaise
+C	tuna	cod	cow	mackerel	salmon
+E	tuna	cod	mackerel	salmon	cow
+A	cow	salmon	tuna	mackerel	cod
+B	mackerel	cow	salmon	tuna	cod
+D	salmon	mackerel	cod	cow	tuna
+B	elk	camel	reindeer	moose	caribou
+C	moose	reindeer	camel	elk	caribou
+C	moose	reindeer	camel	elk	caribou
+D	reindeer	moose	elk	camel	caribou
+C	caribou	moose	camel	elk	reindeer
+B	rubber boots	necktie	umbrella	poncho	raincoat
+D	poncho	rubber boots	raincoat	necktie	umbrella
+E	umbrella	raincoat	rubber boots	poncho	necktie
+A	necktie	rubber boots	umbrella	raincoat	poncho
+A	necktie	raincoat	rubber boots	umbrella	poncho
+A	wasabi	rhubarb	pumpkin	apple	pecan
+B	pumpkin	wasabi	rhubarb	pecan	apple
+C	apple	rhubarb	wasabi	pecan	pumpkin
+D	pumpkin	apple	rhubarb	wasabi	pecan
+D	apple	pecan	rhubarb	wasabi	pumpkin
+D	crackers	crudites	deviled eggs	cereal	bruschetta
+C	crudites	bruschetta	cereal	deviled eggs	crackers
+C	crudites	crackers	cereal	deviled eggs	bruschetta
+E	crudites	bruschetta	crackers	deviled eggs	cereal
+D	crackers	bruschetta	crudites	cereal	deviled eggs
+D	root	leaf	stem	lung	flower
+B	flower	lung	root	leaf	stem
+B	root	lung	flower	leaf	stem
+B	stem	lung	root	leaf	flower
+B	flower	lung	stem	leaf	root
+E	heart	stomach	lung	liver	diamond
+B	stomach	diamond	lung	heart	liver
+A	diamond	lung	stomach	heart	liver
+A	diamond	liver	heart	lung	stomach
+D	heart	stomach	liver	diamond	lung
+D	arachnophobia	agoraphobia	acrophobia	euphoria	claustrophobia
+E	claustrophobia	arachnophobia	acrophobia	agoraphobia	euphoria
+C	acrophobia	arachnophobia	euphoria	agoraphobia	claustrophobia
+C	acrophobia	claustrophobia	euphoria	arachnophobia	agoraphobia
+A	euphoria	agoraphobia	arachnophobia	claustrophobia	acrophobia
+E	wing	beak	feather	talon	hand
+E	feather	beak	talon	wing	hand
+C	wing	feather	hand	talon	beak
+E	feather	talon	beak	wing	hand
+C	wing	beak	hand	talon	feather
+A	Wednesday	June	March	November	January
+E	March	June	January	November	Wednesday
+A	Wednesday	November	January	March	June
+E	January	November	June	March	Wednesday
+C	January	March	Wednesday	June	November
+E	granite	marble	quartz	limestone	oxygen
+B	quartz	oxygen	limestone	granite	marble
+A	oxygen	limestone	marble	granite	quartz
+E	marble	granite	quartz	limestone	oxygen
+D	granite	limestone	quartz	oxygen	marble
+E	chihuahua	shih tzu	poodle	pekingese	labrador
+C	chihuahua	shih tzu	labrador	pekingese	poodle
+B	chihuahua	labrador	poodle	shih tzu	pekingese
+D	chihuahua	shih tzu	pekingese	labrador	poodle
+A	labrador	pekingese	shih tzu	poodle	chihuahua
+B	toro	tango	hamachi	uni	unagi
+C	toro	uni	tango	hamachi	unagi
+E	hamachi	toro	unagi	uni	tango
+B	toro	tango	uni	unagi	hamachi
+A	tango	hamachi	unagi	uni	toro
+C	lo mein	Peking duck	gravlax	fried rice	chow mein
+E	lo mein	Peking duck	chow mein	fried rice	gravlax
+D	fried rice	Peking duck	lo mein	gravlax	chow mein
+A	gravlax	fried rice	Peking duck	chow mein	lo mein
+C	lo mein	chow mein	gravlax	fried rice	Peking duck
+E	pewter	brass	steel	bronze	silver
+A	silver	pewter	bronze	brass	steel
+D	bronze	brass	pewter	silver	steel
+D	bronze	brass	steel	silver	pewter
+C	steel	pewter	silver	brass	bronze
+C	pitchfork	plow	rolling pin	shovel	tractor
+B	shovel	rolling pin	tractor	plow	pitchfork
+D	shovel	plow	pitchfork	rolling pin	tractor
+B	tractor	rolling pin	shovel	pitchfork	plow
+A	rolling pin	tractor	plow	shovel	pitchfork
+A	table	plane	car	train	bicycle
+A	table	plane	bicycle	train	car
+D	car	plane	train	table	bicycle
+A	table	plane	bicycle	car	train
+C	plane	car	table	train	bicycle
+D	manatee	whale	dolphin	horse	seal
+B	dolphin	horse	manatee	seal	whale
+A	horse	dolphin	manatee	whale	seal
+E	seal	manatee	dolphin	whale	horse
+D	seal	manatee	dolphin	horse	whale
+D	chirp	quack	cluck	snore	tweet
+B	chirp	snore	cluck	tweet	quack
+A	snore	cluck	tweet	quack	chirp
+E	chirp	cluck	tweet	quack	snore
+C	cluck	chirp	snore	tweet	quack
+B	coat	shorts	scarf	earmuffs	mittens
+C	coat	earmuffs	shorts	scarf	mittens
+E	mittens	coat	earmuffs	scarf	shorts
+E	scarf	earmuffs	coat	mittens	shorts
+E	earmuffs	coat	mittens	scarf	shorts
+A	bulldozer	paintbrush	easel	chisel	palette
+C	palette	paintbrush	bulldozer	easel	chisel
+E	chisel	palette	easel	paintbrush	bulldozer
+E	chisel	palette	easel	paintbrush	bulldozer
+D	palette	easel	chisel	bulldozer	paintbrush
+C	wolf	tiger	giraffe	lion	bear
+A	giraffe	tiger	bear	wolf	lion
+E	lion	wolf	bear	tiger	giraffe
+E	wolf	bear	tiger	lion	giraffe
+D	bear	tiger	wolf	giraffe	lion
+C	embezzlement	robbery	philanthropy	fraud	murder
+A	philanthropy	robbery	murder	embezzlement	fraud
+A	philanthropy	robbery	embezzlement	fraud	murder
+A	philanthropy	robbery	fraud	murder	embezzlement
+E	robbery	embezzlement	murder	fraud	philanthropy
+B	prince	president	king	princess	queen
+E	queen	prince	king	princess	president
+B	queen	president	princess	king	prince
+E	prince	queen	king	princess	president
+B	prince	president	princess	king	queen
+D	bobsled	curling	skiing	swimming	hockey
+A	swimming	curling	hockey	bobsled	skiing
+A	swimming	skiing	bobsled	hockey	curling
+D	curling	skiing	bobsled	swimming	hockey
+A	swimming	curling	skiing	bobsled	hockey
+D	bibb	iceberg	romaine	serrano	butterhead
+E	bibb	iceberg	romaine	butterhead	serrano
+E	bibb	romaine	iceberg	butterhead	serrano
+B	bibb	serrano	romaine	butterhead	iceberg
+C	iceberg	bibb	serrano	butterhead	romaine
+E	tambourine	drum	cymbals	xylophone	clarinet
+B	tambourine	clarinet	xylophone	cymbals	drum
+C	tambourine	drum	clarinet	cymbals	xylophone
+D	cymbals	xylophone	drum	clarinet	tambourine
+B	drum	clarinet	xylophone	tambourine	cymbals
+E	democratic	green	libertarian	republican	garden
+A	garden	democratic	republican	libertarian	green
+D	republican	green	democratic	garden	libertarian
+C	democratic	green	garden	republican	libertarian
+B	libertarian	garden	democratic	republican	green
+D	raccoon	bat	coyote	robin	owl
+E	coyote	raccoon	bat	owl	robin
+A	robin	raccoon	bat	coyote	owl
+A	robin	raccoon	owl	bat	coyote
+A	robin	raccoon	owl	bat	coyote
+A	atheism	monarchy	communism	despotism	democracy
+D	communism	despotism	monarchy	atheism	democracy
+C	communism	democracy	atheism	despotism	monarchy
+A	atheism	despotism	communism	monarchy	democracy
+D	despotism	monarchy	democracy	atheism	communism
+A	gloves	telescope	eyeglasses	magnifying glass	microscope
+D	eyeglasses	magnifying glass	microscope	gloves	telescope
+D	eyeglasses	microscope	telescope	gloves	magnifying glass
+D	magnifying glass	telescope	eyeglasses	gloves	microscope
+E	telescope	eyeglasses	microscope	magnifying glass	gloves
+A	centimeter	BTU	kilowatt-hour	calorie	joule
+E	calorie	joule	kilowatt-hour	BTU	centimeter
+C	calorie	kilowatt-hour	centimeter	BTU	joule
+D	calorie	joule	kilowatt-hour	centimeter	BTU
+E	joule	calorie	kilowatt-hour	BTU	centimeter
+D	evaporation	condensation	freezing	transportation	melting
+D	freezing	condensation	melting	transportation	evaporation
+E	freezing	melting	evaporation	condensation	transportation
+C	evaporation	condensation	transportation	melting	freezing
+D	evaporation	freezing	condensation	transportation	melting
+A	drive	fry	saute	bake	broil
+E	saute	bake	broil	fry	drive
+E	saute	fry	broil	bake	drive
+C	saute	bake	drive	fry	broil
+E	broil	saute	fry	bake	drive
+A	funny	little	big	small	enormous
+D	enormous	little	small	funny	big
+E	small	big	enormous	little	funny
+A	funny	enormous	big	small	little
+E	small	big	enormous	little	funny
+E	summer	autumn	spring	winter	holiday
+E	summer	autumn	spring	winter	holiday
+C	autumn	winter	holiday	spring	summer
+A	holiday	spring	winter	summer	autumn
+A	holiday	spring	winter	autumn	summer
+B	midnight	nightgown	morning	evening	afternoon
+E	midnight	afternoon	morning	evening	nightgown
+B	midnight	nightgown	afternoon	evening	morning
+C	afternoon	midnight	nightgown	morning	evening
+E	morning	midnight	afternoon	evening	nightgown
+D	carrot	chocolate	angel food	blue	devil's food
+E	carrot	devil's food	chocolate	angel food	blue
+A	blue	devil's food	angel food	chocolate	carrot
+E	devil's food	angel food	chocolate	carrot	blue
+A	blue	angel food	carrot	devil's food	chocolate
+A	ladybug	wasp	hornet	yellow jacket	bumblebee
+C	hornet	wasp	ladybug	yellow jacket	bumblebee
+D	yellow jacket	hornet	bumblebee	ladybug	wasp
+E	bumblebee	yellow jacket	hornet	wasp	ladybug
+C	wasp	yellow jacket	ladybug	bumblebee	hornet
+E	comedian	jester	harlequin	clown	executioner
+A	executioner	jester	clown	comedian	harlequin
+A	executioner	clown	jester	harlequin	comedian
+A	executioner	clown	comedian	harlequin	jester
+A	executioner	jester	clown	comedian	harlequin
+E	macaw	myna	parrot	parakeet	bat
+C	parrot	parakeet	bat	myna	macaw
+B	myna	bat	parakeet	macaw	parrot
+E	macaw	parakeet	myna	parrot	bat
+D	macaw	parakeet	myna	bat	parrot
+E	ounce	gram	ton	pound	liter
+B	pound	liter	gram	ounce	ton
+E	ounce	gram	ton	pound	liter
+D	gram	ton	pound	liter	ounce
+C	pound	gram	liter	ounce	ton
+A	mechanic	juggler	sword swallower	lion tamer	tightrope walker
+E	sword swallower	lion tamer	tightrope walker	juggler	mechanic
+A	mechanic	sword swallower	tightrope walker	juggler	lion tamer
+D	juggler	lion tamer	tightrope walker	mechanic	sword swallower
+E	lion tamer	juggler	tightrope walker	sword swallower	mechanic
+A	crab	canoe	boat	dinghy	raft
+E	canoe	dinghy	raft	boat	crab
+B	canoe	crab	dinghy	boat	raft
+D	boat	dinghy	raft	crab	canoe
+E	canoe	boat	dinghy	raft	crab
+E	enchilada	quesadilla	burrito	taco	jambalaya
+E	quesadilla	enchilada	burrito	taco	jambalaya
+B	enchilada	jambalaya	taco	burrito	quesadilla
+E	enchilada	burrito	taco	quesadilla	jambalaya
+E	quesadilla	enchilada	taco	burrito	jambalaya
+A	croissant	naan	papadum	paratha	dosa
+B	dosa	croissant	paratha	naan	papadum
+B	naan	croissant	papadum	paratha	dosa
+A	croissant	papadum	dosa	paratha	naan
+E	papadum	naan	dosa	paratha	croissant
+D	dime	quarter	penny	third	nickel
+C	quarter	penny	third	nickel	dime
+A	third	nickel	penny	quarter	dime
+B	quarter	third	dime	penny	nickel
+D	dime	nickel	quarter	third	penny
+C	dummy	prick	benefactor	jerk	idiot
+C	idiot	prick	benefactor	jerk	dummy
+A	benefactor	idiot	jerk	prick	dummy
+B	idiot	benefactor	jerk	prick	dummy
+C	jerk	idiot	benefactor	dummy	prick
+D	seven	five	thirteen	nine	three
+D	thirteen	five	seven	nine	three
+A	nine	three	five	seven	thirteen
+B	thirteen	nine	seven	five	three
+B	three	nine	seven	five	thirteen
+E	slow	fast	languid	swift	creative
+E	slow	swift	languid	fast	creative
+B	languid	creative	slow	swift	fast
+D	fast	swift	slow	creative	languid
+C	languid	fast	creative	slow	swift
+B	foot	quart	inch	yard	mile
+E	mile	yard	inch	foot	quart
+C	foot	mile	quart	yard	inch
+A	quart	foot	yard	mile	inch
+D	mile	yard	inch	quart	foot
+D	granny smith	fuji	mcintosh	navel	red delicious
+D	mcintosh	red delicious	fuji	navel	granny smith
+D	fuji	red delicious	granny smith	navel	mcintosh
+B	red delicious	navel	mcintosh	fuji	granny smith
+B	granny smith	navel	mcintosh	fuji	red delicious
+B	water polo	hockey	kayaking	swimming	rowing
+A	hockey	rowing	kayaking	water polo	swimming
+C	water polo	swimming	hockey	kayaking	rowing
+C	water polo	swimming	hockey	rowing	kayaking
+E	water polo	swimming	kayaking	rowing	hockey
+B	perfume	rotten meat	cologne	pot pourri	flowers
+A	rotten meat	pot pourri	perfume	flowers	cologne
+C	flowers	pot pourri	rotten meat	perfume	cologne
+C	perfume	cologne	rotten meat	pot pourri	flowers
+B	pot pourri	rotten meat	cologne	flowers	perfume
+A	hydrogen	neutron	proton	quark	electron
+A	hydrogen	neutron	electron	quark	proton
+D	electron	proton	neutron	hydrogen	quark
+B	proton	hydrogen	quark	electron	neutron
+B	quark	hydrogen	electron	neutron	proton
+D	mimosa	daiquiri	margarita	chicken	screwdriver
+B	mimosa	chicken	screwdriver	daiquiri	margarita
+C	daiquiri	screwdriver	chicken	margarita	mimosa
+D	mimosa	screwdriver	margarita	chicken	daiquiri
+D	screwdriver	daiquiri	margarita	chicken	mimosa
+A	diamond	BLT	cheesesteak	club	reuben
+E	cheesesteak	reuben	club	BLT	diamond
+A	diamond	club	BLT	cheesesteak	reuben
+E	reuben	BLT	cheesesteak	club	diamond
+E	club	cheesesteak	reuben	BLT	diamond
+E	bull	rhinocerous	goat	antelope	poodle
+A	poodle	rhinocerous	bull	goat	antelope
+E	rhinocerous	antelope	bull	goat	poodle
+C	goat	bull	poodle	rhinocerous	antelope
+B	rhinocerous	poodle	bull	goat	antelope
+B	pelican	coppermouth	penguin	duck	puffin
+C	pelican	penguin	coppermouth	duck	puffin
+B	puffin	coppermouth	duck	penguin	pelican
+A	coppermouth	pelican	penguin	duck	puffin
+E	pelican	penguin	duck	puffin	coppermouth
+D	southeast	up	left	therefore	north
+C	left	north	therefore	up	southeast
+D	left	southeast	north	therefore	up
+D	left	north	southeast	therefore	up
+C	north	southeast	therefore	left	up
+C	parrot	hook	poodle	peg leg	eyepatch
+B	peg leg	poodle	parrot	hook	eyepatch
+B	eyepatch	poodle	hook	peg leg	parrot
+D	hook	parrot	eyepatch	poodle	peg leg
+E	parrot	hook	peg leg	eyepatch	poodle
+E	cat	leopard	bear	dog	cobra
+E	leopard	dog	bear	cat	cobra
+A	cobra	cat	bear	dog	leopard
+E	leopard	cat	bear	dog	cobra
+B	leopard	cobra	bear	dog	cat
+C	ribs	brisket	sushi	chicken	hamburger
+E	brisket	hamburger	ribs	chicken	sushi
+D	chicken	brisket	ribs	sushi	hamburger
+E	chicken	hamburger	brisket	ribs	sushi
+B	hamburger	sushi	chicken	brisket	ribs
+C	cookie	éclair	hamburger	donut	cake
+C	donut	cookie	hamburger	éclair	cake
+B	cake	hamburger	cookie	donut	éclair
+B	cake	hamburger	éclair	cookie	donut
+E	cake	donut	cookie	éclair	hamburger
+B	chia	brisket	flax	pumpkin	sunflower
+B	sunflower	brisket	flax	chia	pumpkin
+D	pumpkin	sunflower	chia	brisket	flax
+C	chia	pumpkin	brisket	flax	sunflower
+A	brisket	sunflower	chia	pumpkin	flax
+A	canoe	school	pack	herd	flock
+B	herd	canoe	flock	school	pack
+D	herd	school	flock	canoe	pack
+A	canoe	school	pack	flock	herd
+E	herd	pack	school	flock	canoe
+D	can opener	blender	oven	chef	microwave
+E	can opener	oven	microwave	blender	chef
+E	can opener	blender	microwave	oven	chef
+C	oven	blender	chef	microwave	can opener
+B	blender	chef	oven	microwave	can opener
+E	navy	cobalt	azure	sky	amber
+A	amber	cobalt	azure	sky	navy
+B	sky	amber	azure	cobalt	navy
+E	sky	cobalt	azure	navy	amber
+C	sky	cobalt	amber	azure	navy
+E	paring	Swiss army	butter	pocket	swimming
+C	pocket	Swiss army	swimming	paring	butter
+D	butter	pocket	paring	swimming	Swiss army
+B	pocket	swimming	Swiss army	paring	butter
+A	swimming	butter	Swiss army	pocket	paring
+E	knapsack	purse	satchel	briefcase	dresser
+C	briefcase	satchel	dresser	purse	knapsack
+E	knapsack	briefcase	satchel	purse	dresser
+D	satchel	briefcase	knapsack	dresser	purse
+A	dresser	knapsack	briefcase	satchel	purse
+C	honey	stevia	lemon	agave	sugar
+C	agave	stevia	lemon	honey	sugar
+D	honey	sugar	agave	lemon	stevia
+E	honey	agave	stevia	sugar	lemon
+C	agave	honey	lemon	sugar	stevia
+E	piccolo	oboe	flute	clarinet	piano
+E	flute	piccolo	oboe	clarinet	piano
+A	piano	flute	piccolo	oboe	clarinet
+D	oboe	clarinet	piccolo	piano	flute
+E	clarinet	piccolo	flute	oboe	piano
+C	rose	daisy	butternut	buttercup	violet
+C	buttercup	rose	butternut	violet	daisy
+E	violet	buttercup	rose	daisy	butternut
+C	rose	daisy	butternut	buttercup	violet
+C	rose	buttercup	butternut	daisy	violet
+B	thermometer	television	scale	ruler	graduated cylinder
+E	graduated cylinder	thermometer	scale	ruler	television
+B	scale	television	thermometer	graduated cylinder	ruler
+E	thermometer	scale	graduated cylinder	ruler	television
+E	graduated cylinder	thermometer	ruler	scale	television
+C	hydroelectric	solar	oil	geothermal	wind
+C	hydroelectric	geothermal	oil	solar	wind
+E	solar	geothermal	wind	hydroelectric	oil
+C	geothermal	solar	oil	wind	hydroelectric
+A	oil	solar	hydroelectric	wind	geothermal
+B	east	up	south	north	west
+B	south	up	east	west	north
+C	west	north	up	east	south
+B	north	up	east	west	south
+E	west	east	north	south	up
+B	sugar	rubber	egg	flour	water
+A	rubber	sugar	water	flour	egg
+B	sugar	rubber	water	egg	flour
+D	egg	flour	water	rubber	sugar
+C	egg	sugar	rubber	flour	water
+A	stethoscope	drill	floss	mirror	fluoride
+E	drill	mirror	fluoride	floss	stethoscope
+B	mirror	stethoscope	floss	fluoride	drill
+C	fluoride	mirror	stethoscope	floss	drill
+A	stethoscope	fluoride	floss	mirror	drill
+C	rabbit	deer	tiger	cow	panda
+E	panda	deer	rabbit	cow	tiger
+C	panda	deer	tiger	rabbit	cow
+E	cow	panda	deer	rabbit	tiger
+B	deer	tiger	panda	rabbit	cow
+A	high heels	mascara	foundation	blush	lipstick
+E	mascara	lipstick	blush	foundation	high heels
+A	high heels	lipstick	mascara	blush	foundation
+E	foundation	lipstick	mascara	blush	high heels
+D	foundation	lipstick	blush	high heels	mascara
+A	beet	cream cheese	tofu	daikon	egg white
+B	tofu	beet	cream cheese	daikon	egg white
+A	beet	tofu	cream cheese	daikon	egg white
+D	egg white	cream cheese	daikon	beet	tofu
+B	daikon	beet	tofu	cream cheese	egg white
+E	edamame	tofu	soy milk	soy sauce	flax seed
+C	soy milk	soy sauce	flax seed	tofu	edamame
+D	soy sauce	tofu	soy milk	flax seed	edamame
+C	tofu	soy milk	flax seed	soy sauce	edamame
+B	soy sauce	flax seed	tofu	edamame	soy milk
+A	mixologist	endocrinologist	podiatrist	cardiologist	oncologist
+D	endocrinologist	oncologist	podiatrist	mixologist	cardiologist
+C	podiatrist	cardiologist	mixologist	endocrinologist	oncologist
+D	endocrinologist	podiatrist	cardiologist	mixologist	oncologist
+C	oncologist	endocrinologist	mixologist	cardiologist	podiatrist
+A	rhinocerous	triceratops	tyrannosaurus	stegosaurus	brontosaurus
+E	brontosaurus	tyrannosaurus	triceratops	stegosaurus	rhinocerous
+D	stegosaurus	triceratops	brontosaurus	rhinocerous	tyrannosaurus
+E	stegosaurus	brontosaurus	triceratops	tyrannosaurus	rhinocerous
+C	triceratops	stegosaurus	rhinocerous	brontosaurus	tyrannosaurus
+E	adjective	noun	verb	preposition	subjunctive
+D	adjective	noun	verb	subjunctive	preposition
+D	preposition	noun	adjective	subjunctive	verb
+E	noun	preposition	adjective	verb	subjunctive
+A	subjunctive	noun	verb	adjective	preposition
+E	ruby	diamond	sapphire	emerald	coal
+A	coal	ruby	sapphire	emerald	diamond
+A	coal	diamond	emerald	sapphire	ruby
+D	diamond	sapphire	ruby	coal	emerald
+D	emerald	sapphire	diamond	coal	ruby
+E	barley	oat	quinoa	bulgur	acai
+C	oat	barley	acai	bulgur	quinoa
+E	oat	quinoa	barley	bulgur	acai
+A	acai	barley	bulgur	oat	quinoa
+A	acai	quinoa	bulgur	barley	oat
